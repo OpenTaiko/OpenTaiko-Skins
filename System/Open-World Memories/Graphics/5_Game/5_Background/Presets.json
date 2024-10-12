@@ -1,0 +1,88 @@
+{
+    "Regular": {
+        "": {
+            "UP": [ "0","1" ],
+            "DOWN": [ "0","1","2" ],
+            "DANCER": [ "0" ],
+            "FOOTER": [ "0" ],
+            "MOB": [ "0" ],
+            "RUNNER": [ "0" ]
+        },
+        "Dango": {
+            "UP": [ "0" ],
+            "DOWN": [ "0" ],
+            "DANCER": [ "0" ],
+            "FOOTER": [ "0" ],
+            "MOB": [ "0" ],
+            "RUNNER": [ "0" ]
+        },
+        "Clouds": {
+            "UP": [ "1" ],
+            "DOWN": [ "1" ],
+            "DANCER": [ "0" ],
+            "FOOTER": [ "0" ],
+            "MOB": [ "0" ],
+            "RUNNER": [ "0" ]
+        },
+		    "Forest": {
+            "UP": [ "1" ],
+            "DOWN": [ "2" ],
+            "DANCER": [ "0" ],
+            "FOOTER": [ "0" ],
+            "MOB": [ "0" ],
+            "RUNNER": [ "0" ]
+        },
+        "Dashy": {
+            "UP": [ "8" ],
+            "DOWN": [ "8" ],
+            "DANCER": [ "Dashy" ],
+            "FOOTER": [ "8" ],
+            "MOB": [ "0" ],
+            "RUNNER": [ "0" ]
+        },
+        "Outfox": {
+            "UP": [ "Outfox" ],
+            "DOWN": [ "Outfox" ],
+            "DANCER": [ "0" ],
+            "FOOTER": [ "Outfox" ],
+            "MOB": [ "0" ],
+            "RUNNER": [ "0" ]
+        }
+    },
+    "Dan": {
+      "Summer": {
+        "UP": [ "Summer" ]
+      },
+      "Fall": {
+        "UP": [ "Fall" ]
+      },
+      "Winter": {
+        "UP": [ "Winter" ]
+      },
+      "Spring": {
+        "UP": [ "Spring" ]
+      }
+    },
+  "Tower": {
+    "": {
+      "DOWN": [ "Day", "Sunset", "Mountain" ],
+      "FOOTER": [ "0" ]
+    },
+    "Day": {
+      "DOWN": [ "Day" ],
+      "FOOTER": [ "0" ]
+    },
+    "Sunset": {
+      "DOWN": [ "Sunset" ],
+      "FOOTER": [ "0" ]
+    },
+    "Mountain": {
+      "DOWN": [ "Mountain" ],
+      "FOOTER": [ "0" ]
+    },
+    "Event": {
+      "DOWN": [ "Event" ],
+      "FOOTER": [ "0" ]
+    }
+  }
+}
