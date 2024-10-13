@@ -1,0 +1,11 @@
+{
+	"condition": "sc",
+	"type": "me",
+	"values": [
+		20,
+		2
+	],
+	"references": [
+		"bol",
+	],
+}
