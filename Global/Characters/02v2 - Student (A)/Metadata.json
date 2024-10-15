@@ -7,5 +7,9 @@
 		}
 	},
     "rarity": "Common",
-	"author": "Dashy (OPTK) feat. Ryuuko (OPTK)",
+	"author": {
+		"strings": {
+			"default": "Dashy (OPTK) feat. Ryuuko (OPTK)"
+		}
+	}
 }
