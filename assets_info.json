@@ -8,7 +8,7 @@
             "skinVersion": "0.6.0.5",
             "skinCreator": "DashyDesu",
             "skinResolution": "1920,1080",
-            "skinSize": 329.47,
+            "skinSize": 329.49,
             "skinFilesPath": [
                 "Open-World Memories\\AIResultConfig.ini",
                 "Open-World Memories\\ConfigConfig.ini",
@@ -1582,6 +1582,7 @@
                 "Open-World Memories\\Modules\\NamePlate\\Textures\\Title\\3\\Small.png",
                 "Open-World Memories\\Modules\\NamePlate\\Textures\\Title\\30\\0.png",
                 "Open-World Memories\\Modules\\NamePlate\\Textures\\Title\\31\\0.png",
+                "Open-World Memories\\Modules\\NamePlate\\Textures\\Title\\32\\0.png",
                 "Open-World Memories\\Modules\\NamePlate\\Textures\\Title\\4\\0.png",
                 "Open-World Memories\\Modules\\NamePlate\\Textures\\Title\\4\\Big.png",
                 "Open-World Memories\\Modules\\NamePlate\\Textures\\Title\\4\\Small.png",
