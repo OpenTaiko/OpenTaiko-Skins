@@ -2,8 +2,8 @@
 	"name" : {
 		"strings": {
 			"default": "Student (A) (Old)",
-			"ru": "Студентка",
-			"zh": "学生（Ａ）"
+			"ru": "Студентка (Старый рендеринг)",
+			"zh": "学生（Ａ）（旧）"
 		}
 	},
     "rarity": "Common",
