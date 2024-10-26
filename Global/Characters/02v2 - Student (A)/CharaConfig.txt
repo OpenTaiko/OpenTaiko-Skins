@@ -1,6 +1,6 @@
-Chara_Version=0.6.0.0
+Chara_Version=0.6.0.1
 Chara_Resolution=1920,1080
-Heya_Chara_Render_Offset=830,0
+Heya_Chara_Render_Offset=1134,11
 
 ;キャラのX座標。(1P,2P)
 Game_Chara_X=-20,-20
@@ -23,14 +23,23 @@ Game_Chara_Y_AI=270,270
 ;キャラの通常時モーション指定。(カンマ区切り)
 Game_Chara_Motion_Normal=0,1,2,3,4,5
 
+;キャラの通常時モーション指定。(カンマ区切り)
+Game_Chara_Motion_Clear=0,1,2,3,4,5
+
 ;キャラのゴーゴータイム時モーション指定。(４分の4拍子換算)
 Game_Chara_Motion_GoGo=0,1,2,3
 
 ;キャラの通常時モーションが何拍子でループするか。(カンマ区切り)
 Game_Chara_Beat_Normal=2
 
+;キャラの通常時モーションが何拍子でループするか。(カンマ区切り)
+Game_Chara_Beat_Clear=2
+
 ;キャラのゴーゴータイム時モーションが何拍子でループするか。(カンマ区切り)
 Game_Chara_Beat_GoGo=1
+
+Game_Chara_Beat_10Combo=2.5
+Game_Chara_Beat_10ComboMax=2.5
 
 ;ふうせん連打時のキャラ画像X座標。(1P,2P)
 Game_Chara_Balloon_X=-20,-20
