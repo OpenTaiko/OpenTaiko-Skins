@@ -5545,9 +5545,9 @@
             "charaPreviewImage": "Characters\\02v2 - Student (A)\\Render.png",
             "charaName": "Student (A)",
             "charaCreator": "Dashy (OPTK) feat. Ryuuko (OPTK)",
-            "charaVersion": "0.6.0.0",
+            "charaVersion": "0.6.0.1",
             "charaResolution": "1920,1080",
-            "charaSize": 6.55,
+            "charaSize": 6.28,
             "charaFilesPath": [
                 "Characters\\02v2 - Student (A)\\CharaConfig.txt",
                 "Characters\\02v2 - Student (A)\\Effects.json",
