@@ -3375,7 +3375,7 @@
             "skinVersion": "0.6.0.3",
             "skinCreator": "OpenTaiko Team(0AuBSQ, Takkkom)",
             "skinResolution": "1920,1080",
-            "skinSize": 166.82,
+            "skinSize": 166.83,
             "skinFilesPath": [
                 "SimpleStyle (1080p)\\AIResultConfig.ini",
                 "SimpleStyle (1080p)\\ConfigConfig.ini",
@@ -4949,6 +4949,7 @@
                 "SimpleStyle (1080p)\\Sounds\\AllPerfect.ogg",
                 "SimpleStyle (1080p)\\Sounds\\Banapas.ogg",
                 "SimpleStyle (1080p)\\Sounds\\Bomb.ogg",
+                "SimpleStyle (1080p)\\Sounds\\Calibrate.ogg",
                 "SimpleStyle (1080p)\\Sounds\\Cancel.ogg",
                 "SimpleStyle (1080p)\\Sounds\\Change.ogg",
                 "SimpleStyle (1080p)\\Sounds\\Clear.ogg",
