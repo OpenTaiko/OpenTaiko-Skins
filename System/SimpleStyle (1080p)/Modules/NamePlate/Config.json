@@ -1,9 +1,13 @@
 {
     "font_name_normal":{
         "size":22,
-        "maxsize":330
+        "maxsize":240
     },
     "font_name_withtitle":{
+        "size":18,
+        "maxsize":240
+    },
+    "font_name_full":{
         "size":18,
         "maxsize":180
     },
@@ -16,16 +20,16 @@
         "maxsize":100
     },
     "text_name_normal":{
-        "offset_x":181,
-        "offset_y":68
+        "offset_x":190,
+        "offset_y":53
     },
     "text_name_withtitle":{
-        "offset_x":181,
-        "offset_y":68
+        "offset_x":190,
+        "offset_y":66
     },
     "text_name_full":{
-        "offset_x":216,
-        "offset_y":68
+        "offset_x":222,
+        "offset_y":66
     },
     "text_title":{
         "offset_x":186,

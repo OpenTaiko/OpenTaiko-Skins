@@ -1,9 +1,13 @@
 {
     "font_name_normal":{
         "size":15,
-        "maxsize":220
+        "maxsize":160
     },
     "font_name_withtitle":{
+        "size":12,
+        "maxsize":160
+    },
+    "font_name_full":{
         "size":12,
         "maxsize":120
     },
@@ -16,11 +20,11 @@
         "maxsize":67
     },
     "text_name_normal":{
-        "offset_x":121,
-        "offset_y":48
+        "offset_x":126,
+        "offset_y":40
     },
     "text_name_withtitle":{
-        "offset_x":121,
+        "offset_x":126,
         "offset_y":48
     },
     "text_name_full":{
