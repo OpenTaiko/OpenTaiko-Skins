@@ -1,0 +1,18 @@
+{
+	"name" : {
+		"strings": {
+			"default": "Student A (3D)"
+		}
+	},
+    "rarity": "Poor",
+	"description": {
+		"strings": {
+			"default": "One of OpenTaiko's iconic characters, reimagined in 3D, master-quality resolution."
+		}
+	},
+	"author": {
+		"strings": {
+			"default": "DragonRatTiger"
+		}
+	}
+}

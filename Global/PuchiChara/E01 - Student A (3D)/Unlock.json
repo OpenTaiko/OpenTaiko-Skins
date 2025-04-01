@@ -1,0 +1,11 @@
+{
+	"condition": "sp",
+	"type": "me",
+	"values": [
+		-1,
+		2
+	],
+	"references": [
+		"optkracing07"
+	]
+}
