@@ -5,10 +5,10 @@
             "skinFolderPath": "Open-World Memories",
             "skinPreviewImage": "Open-World Memories\\Graphics\\1_Title\\Background.png",
             "skinName": "Open-World Memories",
-            "skinVersion": "0.6.0.13",
+            "skinVersion": "0.6.0.14",
             "skinCreator": "DashyDesu",
             "skinResolution": "1920,1080",
-            "skinSize": 329.39,
+            "skinSize": 329.42,
             "skinFilesPath": [
                 "Open-World Memories\\AIResultConfig.ini",
                 "Open-World Memories\\ConfigConfig.ini",
@@ -244,6 +244,7 @@
                 "Open-World Memories\\Graphics\\3_SongSelect\\Bar_Genre\\Bar_Genre_Overlap_1.png",
                 "Open-World Memories\\Graphics\\3_SongSelect\\Bar_Genre\\Bar_Genre_Overlap_10.png",
                 "Open-World Memories\\Graphics\\3_SongSelect\\Bar_Genre\\Bar_Genre_Overlap_11.png",
+                "Open-World Memories\\Graphics\\3_SongSelect\\Bar_Genre\\Bar_Genre_Overlap_12.png",
                 "Open-World Memories\\Graphics\\3_SongSelect\\Bar_Genre\\Bar_Genre_Overlap_2.png",
                 "Open-World Memories\\Graphics\\3_SongSelect\\Bar_Genre\\Bar_Genre_Overlap_3.png",
                 "Open-World Memories\\Graphics\\3_SongSelect\\Bar_Genre\\Bar_Genre_Overlap_4.png",
@@ -6916,6 +6917,24 @@
                 "PuchiChara\\D02 - Dashy Lost\\PuchiConfig.txt",
                 "PuchiChara\\D02 - Dashy Lost\\Unlock.json",
                 "PuchiChara\\D02 - Dashy Lost\\Welcome.ogg"
+            ]
+        },
+        {
+            "charaFolder": "E01 - Student A (3D)",
+            "charaFolderPath": "PuchiChara\\E01 - Student A (3D)",
+            "charaPreviewImage": "PuchiChara\\E01 - Student A (3D)\\Render.png",
+            "charaName": "Student A (3D)",
+            "charaCreator": "DragonRatTiger",
+            "charaVersion": "0.6.0.0",
+            "charaResolution": "1920,1080",
+            "charaSize": 0.08,
+            "charaFilesPath": [
+                "PuchiChara\\E01 - Student A (3D)\\Chara.png",
+                "PuchiChara\\E01 - Student A (3D)\\Effects.json",
+                "PuchiChara\\E01 - Student A (3D)\\Metadata.json",
+                "PuchiChara\\E01 - Student A (3D)\\PuchiConfig.txt",
+                "PuchiChara\\E01 - Student A (3D)\\Unlock.json",
+                "PuchiChara\\E01 - Student A (3D)\\Welcome.ogg"
             ]
         }
     ]
