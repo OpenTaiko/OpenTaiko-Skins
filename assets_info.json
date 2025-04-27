@@ -3381,7 +3381,7 @@
             "skinFolderPath": "SimpleStyle (1080p)",
             "skinPreviewImage": "SimpleStyle (1080p)\\Graphics\\1_Title\\Background.png",
             "skinName": "SimpleStyle (1080p)",
-            "skinVersion": "0.6.0.4",
+            "skinVersion": "0.6.0.5",
             "skinCreator": "OpenTaiko Team(0AuBSQ, Takkkom)",
             "skinResolution": "1920,1080",
             "skinSize": 166.85,
@@ -5416,7 +5416,7 @@
             "charaPreviewImage": "Characters\\02 - Student (A)\\Render.png",
             "charaName": "Student (A) (Old)",
             "charaCreator": "Dashy (OPTK)",
-            "charaVersion": "0.6.0.0",
+            "charaVersion": "0.6.0.1",
             "charaResolution": "1920,1080",
             "charaSize": 27.66,
             "charaFilesPath": [
@@ -5696,7 +5696,7 @@
             "charaPreviewImage": "Characters\\02v2 - Student (A)\\Render.png",
             "charaName": "Student (A)",
             "charaCreator": "Dashy (OPTK) feat. Ryuuko (OPTK)",
-            "charaVersion": "0.6.0.1",
+            "charaVersion": "0.6.0.2",
             "charaResolution": "1920,1080",
             "charaSize": 6.28,
             "charaFilesPath": [
@@ -6276,7 +6276,7 @@
             "charaPreviewImage": "Characters\\05 - Aoi\\Render.png",
             "charaName": "Aoi",
             "charaCreator": "Dashy (OPTK)",
-            "charaVersion": "0.6.0.0",
+            "charaVersion": "0.6.0.1",
             "charaResolution": "1920,1080",
             "charaSize": 27.49,
             "charaFilesPath": [
@@ -6846,7 +6846,7 @@
             "charaPreviewImage": "Characters\\10v2 - AItritus\\Render.png",
             "charaName": "AItritus",
             "charaCreator": "Dashy (OPTK) ft. Ryuuko (OPTK)",
-            "charaVersion": "0.6.0.0",
+            "charaVersion": "0.6.0.1",
             "charaResolution": "1920,1080",
             "charaSize": 7.6,
             "charaFilesPath": [
@@ -6948,7 +6948,7 @@
             "charaPreviewImage": "Characters\\21 - Mr. Hikaru\\Render.png",
             "charaName": "Mr. Hikaru",
             "charaCreator": "Dashy (OPTK)",
-            "charaVersion": "0.6.0.0",
+            "charaVersion": "0.6.0.1",
             "charaResolution": "1920,1080",
             "charaSize": 8.82,
             "charaFilesPath": [
@@ -7047,7 +7047,7 @@
             "charaPreviewImage": "Characters\\22 - Ras & Berry\\Render.png",
             "charaName": "Ras & Berry",
             "charaCreator": "Dashy (OPTK) feat. Ryuuko (OPTK) & Crab (OPTK)",
-            "charaVersion": "0.6.0.0",
+            "charaVersion": "0.6.0.1",
             "charaResolution": "1920,1080",
             "charaSize": 7.01,
             "charaFilesPath": [
@@ -7340,7 +7340,7 @@
             "charaPreviewImage": "PuchiChara\\E01 - Student A (3D)\\Render.png",
             "charaName": "Student A (3D)",
             "charaCreator": "DragonRatTiger",
-            "charaVersion": "0.6.0.0",
+            "charaVersion": "0.6.0.1",
             "charaResolution": "1920,1080",
             "charaSize": 0.08,
             "charaFilesPath": [
