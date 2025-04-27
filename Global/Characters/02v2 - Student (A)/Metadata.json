@@ -9,7 +9,9 @@
     "rarity": "Common",
 	"author": {
 		"strings": {
-			"default": "Dashy (OPTK) feat. Ryuuko (OPTK)"
+			"default": "Dashy (OPTK) feat. Ryuuko (OPTK)",
+			"ru": "Дэши (OPTK) feat. Рюуко (OPTK)",
+			"zh": "Dashy（OPTK）feat. Ryuuko（OPTK）"
 		}
 	}
 }

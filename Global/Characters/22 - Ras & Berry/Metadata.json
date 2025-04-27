@@ -1,14 +1,24 @@
 {
 	"name" : {
 		"strings": {
-			"default": "Ras & Berry"
+			"default": "Ras & Berry",
+			"ru": "Рас и Берри",
+			"zh": "小树＆小莓"
 		}
 	},
     "rarity": "Uncommon",
 	"author": {
 		"strings": {
-			"default": "Dashy (OPTK) feat. Ryuuko (OPTK) & Crab (OPTK)"
+			"default": "Dashy (OPTK) feat. Ryuuko (OPTK) & Crab (OPTK)",
+			"ru": "Дэши (OPTK) ft. Рюуко (OPTK) и Краб (OPTK)",
+			"zh": "Dashy（OPTK）ft. Ryuuko（OPTK）＆Crab（OPTK）"
 		}
 	},
-	"description": "A pair of youthful spirits who soar the skies.\nRas is lively, outgoing spirit who creates thunder to balance electricity on the earth,\nand his quiet brother, Berry, is quiet and kind. He creates rain to help plants and animals."
+	"description": {
+		"strings": {
+			"default": "A pair of youthful spirits who soar the skies.\nRas is lively, outgoing spirit who creates thunder to balance electricity on the earth,\nand his quiet brother, Berry, is quiet and kind. He creates rain to help plants and animals.",
+			"ru": "Пара юных духов, которые парят в небесах.\nРас — живой, общительный дух, который создаёт гром, чтобы уравновесить электричество на земле,\nи его тихий брат Берри, тихий и добрый. Он вызывает дождь, чтобы помочь растениям и животным.",
+			"zh": "一对翱翔天空的青春精灵。\n小树是活泼、外向的精灵，创造雷霆来平衡地球上的电力，\n他安静的兄弟，小莓，安静而善良。他创造雨水来帮助植物和动物。"
+		}
+	}
 }

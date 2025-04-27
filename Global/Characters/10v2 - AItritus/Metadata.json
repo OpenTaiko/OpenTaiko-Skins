@@ -1,14 +1,24 @@
 {
 	"name" : {
 		"strings": {
-			"default": "AItritus"
+			"default": "AItritus",
+			"ru": "АЙтритус",
+			"zh": "爱特里图斯"
 		}
 	},
     "rarity": "Rare",
 	"author": {
 		"strings": {
-			"default": "Dashy (OPTK) ft. Ryuuko (OPTK)"
+			"default": "Dashy (OPTK) ft. Ryuuko (OPTK)",
+			"ru": "Дэши (OPTK) ft. Рюуко (OPTK)",
+			"zh": "Dashy（OPTK）ft. Ryuuko（OPTK）"
 		}
 	},
-	"description": "A mysterious, and emotion-less hi-tech robot girl from a distant future,\ndesigned to analyze music to make it into a weapon.\nAlthough she can't feel emotion herself, she works\nhard and enjoys learning about them to be able to someday."
+	"description": {
+		"strings": {
+			"default": "A mysterious, and emotion-less hi-tech robot girl from a distant future,\ndesigned to analyze music to make it into a weapon.\nAlthough she can't feel emotion herself, she works\nhard and enjoys learning about them to be able to someday.",
+			"ru": "Таинственная и бесчувственная высокотехнологичная девушка-робот из далёкого будущего,\nсозданная для анализа музыки и превращения её в оружие.\nХотя сама она не умеет испытывать эмоции, она усердно\nработает и с удовольствием изучает их, чтобы когда-нибудь научиться.",
+			"zh": "来自遥远未来的一个神秘的、没有感情的高科技机器人女孩，\n其设计旨在分析音乐以使其成为武器。\n虽然她自己不能感受到情感，但她努力\n工作，喜欢学习它们，以便有一天能够自学。"
+		}
+	}
 }
