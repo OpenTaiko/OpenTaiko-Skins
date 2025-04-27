@@ -1,18 +1,23 @@
 {
 	"name" : {
 		"strings": {
-			"default": "Student A (3D)"
+			"default": "Student A (3D)",
+			"ru": "Студентка (3D)",
+			"zh": "学生（Ａ）（3D）"
 		}
 	},
     "rarity": "Poor",
 	"description": {
 		"strings": {
-			"default": "One of OpenTaiko's iconic characters, reimagined in 3D, master-quality resolution."
+			"default": "One of OpenTaiko's iconic characters, reimagined in 3D, master-quality resolution.",
+			"ru": "Один из культовых персонажей в OpenTaiko, переосмысленный в 3D-разрешении высочайшего качества.",
+			"zh": "OpenTaiko的标志性角色之一，以三维、大师级的分辨率重新构思。"
 		}
 	},
 	"author": {
 		"strings": {
-			"default": "DragonRatTiger"
+			"default": "DragonRatTiger",
+			"ru": "ДраконРатТигр"
 		}
 	}
 }

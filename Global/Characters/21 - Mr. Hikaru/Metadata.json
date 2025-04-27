@@ -1,14 +1,24 @@
 {
 	"name" : {
 		"strings": {
-			"default": "Mr. Hikaru"
+			"default": "Mr. Hikaru",
+			"ru": "Мистер Хикару",
+			"zh": "辉先生"
 		}
 	},
     "rarity": "Rare",
 	"author": {
 		"strings": {
-			"default": "Dashy (OPTK)"
+			"default": "Dashy (OPTK)",
+			"ru": "Дэши (OPTK)",
+			"zh": "Dashy（OPTK）"
 		}
 	},
-	"description": "A mighty demon warrior from a distant world.\nTruly, he doesn't want to fight, and finds more comfort in nature, playing his shamisen."
+	"description":  {
+		"strings": {
+			"default": "A mighty demon warrior from a distant world.\nTruly, he doesn't want to fight, and finds more comfort in nature, playing his shamisen.",
+			"ru": "Могущественный воин-демон из далекого мира.\nНа самом деле, он не хочет сражаться и находит больше утешения на природе, играя на сямисэне.",
+			"zh": "来自遥远世界的强大恶魔战士。\n真的，他不想战斗，他只是想在大自然中寻找更多的安慰，弹奏他的三味线。"
+		}
+	}
 }
