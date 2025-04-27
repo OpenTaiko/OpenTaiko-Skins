@@ -1,7 +1,15 @@
 {
-	"name" : "Mr. Hikaru",
+	"name" : {
+		"strings": {
+			"default": "Mr. Hikaru",
+		}
+	},
     "rarity": "Rare",
-	"author": "Dashy (OPTK)",
+	"author": {
+		"strings": {
+			"default": "Dashy (OPTK)",
+		}
+	},
 	"description": "
 A mighty demon warrior from a distant world. 
 Truly, he doesn't want to fight, and finds more comfort in nature, playing his shamisen.

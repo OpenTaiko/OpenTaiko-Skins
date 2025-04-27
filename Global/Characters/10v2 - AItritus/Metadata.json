@@ -1,7 +1,15 @@
 {
-	"name" : "AItritus",
+	"name" : {
+		"strings": {
+			"default": "AItritus",
+		}
+	},
     "rarity": "Rare",
-	"author": "Dashy (OPTK) feat. Ryuuko (OPTK)",
+	"author": {
+		"strings": {
+			"default": "Dashy (OPTK) ft. Ryuuko (OPTK)",
+		}
+	},
 	"description": "
 A mysterious, and emotion-less hi-tech robot girl from a distant future,
 designed to analyze music to make it into a weapon.
