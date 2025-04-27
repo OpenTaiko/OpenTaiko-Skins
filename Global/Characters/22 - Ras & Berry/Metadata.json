@@ -1,18 +1,14 @@
 {
 	"name" : {
 		"strings": {
-			"default": "Ras & Berry",
+			"default": "Ras & Berry"
 		}
 	},
     "rarity": "Uncommon",
 	"author": {
 		"strings": {
-			"default": "Dashy (OPTK) feat. Ryuuko (OPTK) & Crab (OPTK)",
+			"default": "Dashy (OPTK) feat. Ryuuko (OPTK) & Crab (OPTK)"
 		}
 	},
-	"description": "
-A pair of youthful spirits who soar the skies. 
-Ras is lively, outgoing spirit who creates thunder to balance electricity on the earth,
-and his quiet brother, Berry, is quiet and kind. He creates rain to help plants and animals.
- ",
+	"description": "A pair of youthful spirits who soar the skies.\nRas is lively, outgoing spirit who creates thunder to balance electricity on the earth,\nand his quiet brother, Berry, is quiet and kind. He creates rain to help plants and animals."
 }

@@ -1,19 +1,14 @@
 {
 	"name" : {
 		"strings": {
-			"default": "AItritus",
+			"default": "AItritus"
 		}
 	},
     "rarity": "Rare",
 	"author": {
 		"strings": {
-			"default": "Dashy (OPTK) ft. Ryuuko (OPTK)",
+			"default": "Dashy (OPTK) ft. Ryuuko (OPTK)"
 		}
 	},
-	"description": "
-A mysterious, and emotion-less hi-tech robot girl from a distant future,
-designed to analyze music to make it into a weapon.
-Although she can't feel emotion herself, she works 
-hard and enjoys learning about them to be able to someday.
-",
+	"description": "A mysterious, and emotion-less hi-tech robot girl from a distant future,\ndesigned to analyze music to make it into a weapon.\nAlthough she can't feel emotion herself, she works\nhard and enjoys learning about them to be able to someday."
 }
