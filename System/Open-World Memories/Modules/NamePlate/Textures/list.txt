@@ -35,3 +35,8 @@
 34 - Status Full Combo
 35 - Status Perfect
 36 - Template
+37 - OpTk Chapter V
+38 - ?
+39 - Clear Count
+40 - Full Combo Count
+41 - Perfect Count
