@@ -5535,7 +5535,7 @@
             "charaPreviewImage": "Characters\\02v2 - Student (A)\\Render.png",
             "charaName": "Student (A)",
             "charaCreator": "Dashy (OPTK) feat. Ryuuko (OPTK)",
-            "charaVersion": "0.6.0.2",
+            "charaVersion": "0.6.0.3",
             "charaResolution": "1920,1080",
             "charaSize": 6.28,
             "charaFilesPath": [
@@ -6115,7 +6115,7 @@
             "charaPreviewImage": "Characters\\05v2 - Aoi\\Render.png",
             "charaName": "Aoi",
             "charaCreator": "Dashy (OPTK) ft. Ryuuko (OPTK)",
-            "charaVersion": "0.6.0.1",
+            "charaVersion": "0.6.0.2",
             "charaResolution": "1920,1080",
             "charaSize": 6.8,
             "charaFilesPath": [
@@ -6221,7 +6221,7 @@
             "charaPreviewImage": "Characters\\10v2 - AItritus\\Render.png",
             "charaName": "AItritus",
             "charaCreator": "Dashy (OPTK) ft. Ryuuko (OPTK)",
-            "charaVersion": "0.6.0.1",
+            "charaVersion": "0.6.0.2",
             "charaResolution": "1920,1080",
             "charaSize": 7.6,
             "charaFilesPath": [
@@ -6323,7 +6323,7 @@
             "charaPreviewImage": "Characters\\21 - Mr. Hikaru\\Render.png",
             "charaName": "Mr. Hikaru",
             "charaCreator": "Dashy (OPTK)",
-            "charaVersion": "0.6.0.1",
+            "charaVersion": "0.6.0.2",
             "charaResolution": "1920,1080",
             "charaSize": 8.82,
             "charaFilesPath": [
@@ -6422,7 +6422,7 @@
             "charaPreviewImage": "Characters\\22 - Ras & Berry\\Render.png",
             "charaName": "Ras & Berry",
             "charaCreator": "Dashy (OPTK) feat. Ryuuko (OPTK) & Crab (OPTK)",
-            "charaVersion": "0.6.0.1",
+            "charaVersion": "0.6.0.2",
             "charaResolution": "1920,1080",
             "charaSize": 7.01,
             "charaFilesPath": [
@@ -6679,9 +6679,9 @@
             "charaPreviewImage": "PuchiChara\\D01 - Dashy\\Render.png",
             "charaName": "Dashy",
             "charaCreator": "Dashy",
-            "charaVersion": "0.6.0.0",
+            "charaVersion": "0.6.0.1",
             "charaResolution": "1920,1080",
-            "charaSize": 0.11,
+            "charaSize": 0.12,
             "charaFilesPath": [
                 "PuchiChara\\D01 - Dashy\\Chara.png",
                 "PuchiChara\\D01 - Dashy\\Effects.json",
