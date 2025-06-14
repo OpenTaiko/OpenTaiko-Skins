@@ -40,3 +40,4 @@
 39 - Clear Count
 40 - Full Combo Count
 41 - Perfect Count
+42 - Ryuto
