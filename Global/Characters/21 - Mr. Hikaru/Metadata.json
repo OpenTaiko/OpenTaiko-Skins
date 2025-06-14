@@ -20,5 +20,37 @@
 			"ru": "Могущественный воин-демон из далекого мира.\nНа самом деле, он не хочет сражаться и находит больше утешения на природе, играя на сямисэне.",
 			"zh": "来自遥远世界的强大恶魔战士。\n真的，他不想战斗，他只是想在大自然中寻找更多的安慰，弹奏他的三味线。"
 		}
-	}
+	},
+	"speechtext": [
+		{
+			"strings": {
+				"default": "..... \n(He seems dissapointed.)"
+			}
+		},
+		{
+			"strings": {
+				"default": "Ah... Auw..."
+			}
+		},
+		{
+			"strings": {
+				"default": "...Bauw! (... Good!)"
+			}
+		},
+		{
+			"strings": {
+				"default": "Bauw... Bauwauw...! \n(What a nice session...!)"
+			}
+		},
+		{
+			"strings": {
+				"default": "Such a nice song, \nfor such a nice day...!"
+			}
+		},
+		{
+			"strings": {
+				"default": "...How delightful...!"
+			}
+		}
+	]
 }

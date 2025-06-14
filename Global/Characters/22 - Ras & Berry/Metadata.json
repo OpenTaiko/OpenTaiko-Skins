@@ -16,9 +16,41 @@
 	},
 	"description": {
 		"strings": {
-			"default": "A pair of youthful spirits who soar the skies.\nRas is lively, outgoing spirit who creates thunder to balance electricity on the earth,\nand his quiet brother, Berry, is quiet and kind. He creates rain to help plants and animals.",
-			"ru": "Пара юных духов, которые парят в небесах.\nРас — живой, общительный дух, который создаёт гром, чтобы уравновесить электричество на земле,\nи его тихий брат Берри, тихий и добрый. Он вызывает дождь, чтобы помочь растениям и животным.",
-			"zh": "一对翱翔天空的青春精灵。\n小树是活泼、外向的精灵，创造雷霆来平衡地球上的电力，\n他安静的兄弟，小莓，安静而善良。他创造雨水来帮助植物和动物。"
+			"default": "A pair of youthful spirits who soar the skies.\nRas is lively, outgoing spirit who creates thunder to balance electricity on the earth,\nand his quiet brother, Berry, is quiet and kind. He creates rain to help plants and animals.\n",
+			"ru": "Пара юных духов, которые парят в небесах.\nРас — живой, общительный дух, который создаёт гром, чтобы уравновесить электричество на земле,\nи его тихий брат Берри, тихий и добрый. Он вызывает дождь, чтобы помочь растениям и животным.\n",
+			"zh": "一对翱翔天空的青春精灵。\n小树是活泼、外向的精灵，创造雷霆来平衡地球上的电力，\n他安静的兄弟，小莓，安静而善良。他创造雨水来帮助植物和动物。\n"
+			}
+		},
+	"speechtext": [
+		{
+			"strings": {
+				"default": "<c.#FFCCE0.#91001D>What was that?!\n<c.#93F2FF.#005381>So... Dizzy..."
+			}
+		},
+		{
+			"strings": {
+				"default": "<c.#FFCCE0.#91001D>Oh well, just a couple mistakes!\n<c.#93F2FF.#005381>... If you say so...?"
+			}
+		},
+		{
+			"strings": {
+				"default": "Another day, another happy world!"
+			}
+		},
+		{
+			"strings": {
+				"default": "<c.#FFCCE0.#91001D>The sky feels warmer today!\n<c.#93F2FF.#005381>Y-Yeah...! It's nice..."
+			}
+		},
+		{
+			"strings": {
+				"default": "<c.#FFCCE0.#91001D>I feel so energized today!\n<c.#93F2FF.#005381>It's nice seeing everyone so happy...!"
+			}
+		},
+		{
+			"strings": {
+				"default": "<c.#FFCCE0.#91001D>I could take on the WORLD!\n<c.#93F2FF.#005381>Incredible...!"
+			}
 		}
-	}
+	]
 }

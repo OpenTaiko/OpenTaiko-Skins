@@ -20,5 +20,37 @@
 			"ru": "Таинственная и бесчувственная высокотехнологичная девушка-робот из далёкого будущего,\nсозданная для анализа музыки и превращения её в оружие.\nХотя сама она не умеет испытывать эмоции, она усердно\nработает и с удовольствием изучает их, чтобы когда-нибудь научиться.",
 			"zh": "来自遥远未来的一个神秘的、没有感情的高科技机器人女孩，\n其设计旨在分析音乐以使其成为武器。\n虽然她自己不能感受到情感，但她努力\n工作，喜欢学习它们，以便有一天能够自学。"
 		}
-	}
+	},
+	"speechtext": [
+		{
+			"strings": {
+				"default": "I'm sorry, I don't\nquite understand..."
+			}
+		},
+		{
+			"strings": {
+				"default": "A minor error has occured."
+			}
+		},
+		{
+			"strings": {
+				"default": "A success, as planned."
+			}
+		},
+		{
+			"strings": {
+				"default": "These are rather \nunique results..."
+			}
+		},
+		{
+			"strings": {
+				"default": "This is a wonderful \ndiscovery...!"
+			}
+		},
+		{
+			"strings": {
+				"default": "What an interesting result..."
+			}
+		}
+	]
 }

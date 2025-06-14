@@ -20,5 +20,37 @@
 			"ru": "Неуклюжая старшеклассница, которая любит петь и стремится когда-нибудь\nстать идолом, а невероятно странный, но строгий кот ведут её к успеху.",
 			"zh": "一个笨拙的中学女孩，喜欢唱歌，努力在有一天\n成为一名偶像，并且一只极其怪异但是严肃的小猫正在引导她成功。"
 		}
-	}
+	},
+	"speechtext": [
+		{
+			"strings": {
+				"default": "Ah... I need more practice..."
+			}
+		},
+		{
+			"strings": {
+				"default": "Oops... I messed up a little too much..."
+			}
+		},
+		{
+			"strings": {
+				"default": "Not too bad, maybe...!"
+			}
+		},
+		{
+			"strings": {
+				"default": "I think I've got the hang of this song!"
+			}
+		},
+		{
+			"strings": {
+				"default": "All this practice is paying off...!"
+			}
+		},
+		{
+			"strings": {
+				"default": "I wish I recorded that..."
+			}
+		}
+	]
 }
