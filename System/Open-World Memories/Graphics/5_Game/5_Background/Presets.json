@@ -5,7 +5,7 @@
             "DOWN": ["0_TaikoClub","1_Field","2_Forest","3_Space","4_Spooky","5_Neighborhood"],
             "DANCER": [ "0", "1" ],
             "FOOTER": [ "0" ],
-            "MOB": [ "0","1","2" ],
+            "MOB": [ "1","2" ],
             "RUNNER": [ "0" ]
         },
         "Dango": {
@@ -45,7 +45,7 @@
             "DOWN": [ "3_Space" ],
             "DANCER": [ "0", "1" ],
             "FOOTER": [ "0" ],
-            "MOB": [ "0","1","2" ],
+            "MOB": [ "1","2" ],
             "RUNNER": [ "0" ]
         },
         "Spooky": {
@@ -53,7 +53,7 @@
             "DOWN": [ "4_Spooky" ],
             "DANCER": [ "0", "1" ],
             "FOOTER": [ "0" ],
-            "MOB": [ "0","1","2" ],
+            "MOB": [ "1","2" ],
             "RUNNER": [ "0" ]
         },
         "WorldBarrier": {
@@ -69,7 +69,7 @@
             "DOWN": [ "8_Dashy" ],
             "DANCER": [ "Dashy" ],
             "FOOTER": [ "8" ],
-            "MOB": [ "0","1","2" ],
+            "MOB": [ "1","2" ],
             "RUNNER": [ "0" ]
         },
         "Outfox": {
@@ -77,7 +77,15 @@
             "DOWN": [ "Outfox" ],
             "DANCER": [ "0" ],
             "FOOTER": [ "Outfox" ],
-            "MOB": [ "0","1","2" ],
+            "MOB": [ "1","2" ],
+            "RUNNER": [ "0" ]
+        },
+        "Headquarters": {
+            "UP": [ "0","1" ],
+            "DOWN": [ "0","1","2" ],
+            "DANCER": [ "0" ],
+            "FOOTER": [ "0" ],
+            "MOB": [ "0" ],
             "RUNNER": [ "0" ]
         }
     },
