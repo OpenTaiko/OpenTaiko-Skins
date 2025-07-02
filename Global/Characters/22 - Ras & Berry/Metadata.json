@@ -24,32 +24,44 @@
 	"speechtext": [
 		{
 			"strings": {
-				"default": "<c.#FFCCE0.#91001D>What was that?!\n<c.#93F2FF.#005381>So... Dizzy..."
+				"default": "<c.#FFCCE0.#91001D>What was that?!\n<c.#93F2FF.#005381>So... Dizzy...",
+				"ru": "<c.#FFCCE0.#91001D>Что это было?!\n<c.#93F2FF.#005381>Так... кружится голова...",
+				"zh": "<c.#FFCCE0.#91001D>那是什么?!\n<c.#93F2FF.#005381>好……晕……"
 			}
 		},
 		{
 			"strings": {
-				"default": "<c.#FFCCE0.#91001D>Oh well, just a couple mistakes!\n<c.#93F2FF.#005381>... If you say so...?"
+				"default": "<c.#FFCCE0.#91001D>Oh well, just a couple mistakes!\n<c.#93F2FF.#005381>... If you say so...?",
+				"ru": "<c.#FFCCE0.#91001D>Ну что ж, всего пара ошибок!\n<c.#93F2FF.#005381>... Если ты так говоришь...?",
+				"zh": "<c.#FFCCE0.#91001D>噢好吧，只是几个错误！\n<c.#93F2FF.#005381>……如果你这么说的话……？"
 			}
 		},
 		{
 			"strings": {
-				"default": "Another day, another happy world!"
+				"default": "Another day, another happy world!",
+				"ru": "Ещё один день, ещё один счастливый мир!",
+				"zh": "又一天，又一个幸福的世界！"
 			}
 		},
 		{
 			"strings": {
-				"default": "<c.#FFCCE0.#91001D>The sky feels warmer today!\n<c.#93F2FF.#005381>Y-Yeah...! It's nice..."
+				"default": "<c.#FFCCE0.#91001D>The sky feels warmer today!\n<c.#93F2FF.#005381>Y-Yeah...! It's nice...",
+				"ru": "<c.#FFCCE0.#91001D>Небо сегодня кажется теплее!\n<c.#93F2FF.#005381>Д-да...! Это здорово...",
+				"zh": "<c.#FFCCE0.#91001D>今天的天空感觉更暖和了！\n<c.#93F2FF.#005381>是，是的……！很好……"
 			}
 		},
 		{
 			"strings": {
-				"default": "<c.#FFCCE0.#91001D>I feel so energized today!\n<c.#93F2FF.#005381>It's nice seeing everyone so happy...!"
+				"default": "<c.#FFCCE0.#91001D>I feel so energized today!\n<c.#93F2FF.#005381>It's nice seeing everyone so happy...!",
+				"ru": "<c.#FFCCE0.#91001D>Сегодня я чувствую себя такой энергичной!\n<c.#93F2FF.#005381>Приятно видеть всех такими счастливыми...!",
+				"zh": "<c.#FFCCE0.#91001D>我今天感觉很有活力！\n<c.#93F2FF.#005381>很高兴看到大家都这么幸福……！"
 			}
 		},
 		{
 			"strings": {
-				"default": "<c.#FFCCE0.#91001D>I could take on the WORLD!\n<c.#93F2FF.#005381>Incredible...!"
+				"default": "<c.#FFCCE0.#91001D>I could take on the WORLD!\n<c.#93F2FF.#005381>Incredible...!",
+				"ru": "<c.#FFCCE0.#91001D>Я мог бы завоевать весь МИР!\n<c.#93F2FF.#005381>Невероятно...!",
+				"zh": "<c.#FFCCE0.#91001D>我可以征服这个世界！\n<c.#93F2FF.#005381>难以置信……！"
 			}
 		}
 	]

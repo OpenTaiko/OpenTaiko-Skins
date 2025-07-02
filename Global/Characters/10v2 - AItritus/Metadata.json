@@ -24,32 +24,44 @@
 	"speechtext": [
 		{
 			"strings": {
-				"default": "I'm sorry, I don't\nquite understand..."
+				"default": "I'm sorry, I don't\nquite understand...",
+				"ru": "Извините, я не\nсовсем понимаю...",
+				"zh": "抱歉，我十分\n不明白……"
 			}
 		},
 		{
 			"strings": {
-				"default": "A minor error has occured."
+				"default": "A minor error has occurred.",
+				"ru": "Произошла незначительная ошибка.",
+				"zh": "发生了小错误。"
 			}
 		},
 		{
 			"strings": {
-				"default": "A success, as planned."
+				"default": "A success, as planned.",
+				"ru": "Все прошло успешно, \nкак и планировалось.",
+				"zh": "按计划成功。"
 			}
 		},
 		{
 			"strings": {
-				"default": "These are rather \nunique results..."
+				"default": "These are rather \nunique results...",
+				"ru": "Это довольно \nуникальные результаты...",
+				"zh": "这些是十分独一\n无二的结果……"
 			}
 		},
 		{
 			"strings": {
-				"default": "This is a wonderful \ndiscovery...!"
+				"default": "This is a wonderful \ndiscovery...!",
+				"ru": "Это замечательное \nоткрытие...!",
+				"zh": "这是美妙的\n发现……！"
 			}
 		},
 		{
 			"strings": {
-				"default": "What an interesting result..."
+				"default": "What an interesting result...",
+				"ru": "Какой интересный результат...",
+				"zh": "多么有趣的结果……"
 			}
 		}
 	]
