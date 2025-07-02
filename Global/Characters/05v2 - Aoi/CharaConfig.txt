@@ -1,4 +1,4 @@
-Chara_Version=0.6.0.3
+Chara_Version=0.6.0.4
 Chara_Resolution=1920,1080
 Heya_Chara_Render_Offset=830,-250
 

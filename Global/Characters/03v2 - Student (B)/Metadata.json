@@ -2,8 +2,8 @@
 	"name" : {
 		"strings": {
 			"default": "Student (B)",
-			"ru": "Студентка",
-			"zh": "学生(B）"
+			"ru": "Студент",
+			"zh": "学生（Ｂ）"
 		}
 	},
     "rarity": "Common",
@@ -14,37 +14,55 @@
 			"zh": "Dashy (OPTK), Ryuuko (OPTK), Crab (OPTK)"
 		}
 	},
-	"description": "\nA person with eyes like windows into this universe.\n",
+	"description": {
+		"strings": {
+			"default": "\nA person with eyes like windows into this universe.\n",
+			"ru": "\nЧеловек с глазами, похожими на окна в эту вселенную.\n",
+			"zh": "\n一个眼睛像进入这个宇宙的窗户一样的人。\n"
+		}
+	},
 
 	"speechtext": [
 		{
 			"strings": {
-				"default": "Are you kidding...?"
+				"default": "Are you kidding...?",
+				"ru": "Ты что, шутишь...?",
+				"zh": "你在开玩笑吧……？"
 			}
 		},
 		{
 			"strings": {
-				"default": "That's no fun... "
+				"default": "That's no fun... ",
+				"ru": "Это совсем не весело...",
+				"zh": "这不好玩……"
 			}
 		},
 		{
 			"strings": {
-				"default": "Oh, I did it!"
+				"default": "Oh, I did it!",
+				"ru": "О, я сделал это!",
+				"zh": "噢，我做到了！"
 			}
 		},
 		{
 			"strings": {
-				"default": "That was fun!"
+				"default": "That was fun!",
+				"ru": "Это было весело!",
+				"zh": "好好玩！"
 			}
 		},
 		{
 			"strings": {
-				"default": "That's Incredible!"
+				"default": "That's Incredible!",
+				"ru": "Это невероятно!",
+				"zh": "这难以置信！"
 			}
 		},
 		{
 			"strings": {
-				"default": "Unbelievable!!"
+				"default": "Unbelievable!!",
+				"ru": "Невероятно!!",
+				"zh": "令人难以置信！！"
 			}
 		}
 	]

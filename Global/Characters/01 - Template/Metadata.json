@@ -13,36 +13,50 @@
 			"zh": "OpenTaiko团队"
 		}
 	},
-	"description": "\nHere since the very beginning...\nThe most reliable red square!\n",
+	"description": {
+		"strings": {
+			"default": "\nHere since the very beginning...\nThe most reliable red square!\n",
+			"ru": "\nЗдесь с самого начала...\nСамый надежный красный квадрат!\n",
+			"zh": "\n这里从一开始……\n最可靠的红色方块！\n"
+		}
+	},
 	"speechtext": [
 		{
 			"strings": {
-				"default": "...?"
+				"default": "...?",
+				"zh": "……？"
 			}
 		},
 		{
 			"strings": {
-				"default": "..."
+				"default": "...",
+				"zh": "……"
 			}
 		},
 		{
 			"strings": {
-				"default": "...!"
+				"default": "...!",
+				"zh": "……！"
 			}
 		},
 		{
 			"strings": {
-				"default": "...!!"
+				"default": "...!!",
+				"zh": "……!!"
 			}
 		},
 		{
 			"strings": {
-				"default": "HOW"
+				"default": "HOW",
+				"ru": "КАК",
+				"zh": "怎么"
 			}
 		},
 		{
 			"strings": {
-				"default": "HOW!!"
+				"default": "HOW!!",
+				"ru": "КАК!!",
+				"zh": "怎么!!"
 			}
 		}
 	]
