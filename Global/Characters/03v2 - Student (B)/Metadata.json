@@ -1,0 +1,51 @@
+{
+	"name" : {
+		"strings": {
+			"default": "Student (B)",
+			"ru": "Студентка",
+			"zh": "学生(B）"
+		}
+	},
+    "rarity": "Common",
+	"author": {
+		"strings": {
+			"default": "Dashy (OPTK), Ryuuko (OPTK), Crab (OPTK)",
+			"ru": "Дэши (OPTK) feat. Рюуко (OPTK)",
+			"zh": "Dashy (OPTK), Ryuuko (OPTK), Crab (OPTK)"
+		}
+	},
+	"description": "\nA person with eyes like windows into this universe.\n",
+
+	"speechtext": [
+		{
+			"strings": {
+				"default": "Are you kidding...?"
+			}
+		},
+		{
+			"strings": {
+				"default": "That's no fun... "
+			}
+		},
+		{
+			"strings": {
+				"default": "Oh, I did it!"
+			}
+		},
+		{
+			"strings": {
+				"default": "That was fun!"
+			}
+		},
+		{
+			"strings": {
+				"default": "That's Incredible!"
+			}
+		},
+		{
+			"strings": {
+				"default": "Unbelievable!!"
+			}
+		}
+	]
+}
