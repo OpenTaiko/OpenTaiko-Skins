@@ -24,32 +24,44 @@
 	"speechtext": [
 		{
 			"strings": {
-				"default": "..... \n(He seems dissapointed.)"
+				"default": "..... \n(He seems dissapointed.)",
+				"ru": "..... \n(Он выглядит разочарованным.)",
+				"zh": "……\n（他似乎失望。）"
 			}
 		},
 		{
 			"strings": {
-				"default": "Ah... Auw..."
+				"default": "Ah... Auw...",
+				"ru": "Ах... Ой...",
+				"zh": "啊……哎哟……"
 			}
 		},
 		{
 			"strings": {
-				"default": "...Bauw! (... Good!)"
+				"default": "...Bauw! (... Good!)",
+				"ru": "...Ого! (... Хорошо!)",
+				"zh": "……耶！（……好！）"
 			}
 		},
 		{
 			"strings": {
-				"default": "Bauw... Bauwauw...! \n(What a nice session...!)"
+				"default": "Bauw... Bauwauw...! \n(What a nice session...!)",
+				"ru": "Ого... Ого-го...! \n(Какая приятная сессия...!)",
+				"zh": "耶……耶耶！\n（多么好的演奏……！）"
 			}
 		},
 		{
 			"strings": {
-				"default": "Such a nice song, \nfor such a nice day...!"
+				"default": "Such a nice song, \nfor such a nice day...!",
+				"ru": "Такая хорошая песня, \nдля такого прекрасного дня...!",
+				"zh": "这样好的歌，\n为这样好的一天……！"
 			}
 		},
 		{
 			"strings": {
-				"default": "...How delightful...!"
+				"default": "...How delightful...!",
+				"ru": "...Как восхитительно...!",
+				"zh": "……好高兴……！"
 			}
 		}
 	]

@@ -24,32 +24,44 @@
 	"speechtext": [
 		{
 			"strings": {
-				"default": "Ah... I need more practice..."
+				"default": "Ah... I need more practice...",
+				"ru": "Ах... мне нужно больше практиковаться...",
+				"zh": "啊……我需要更多练习……"
 			}
 		},
 		{
 			"strings": {
-				"default": "Oops... I messed up a little too much..."
+				"default": "Oops... I messed up a little too much...",
+				"ru": "Ой... я слишком много напортачила...",
+				"zh": "哎呀……我搞砸得有点太多……"
 			}
 		},
 		{
 			"strings": {
-				"default": "Not too bad, maybe...!"
+				"default": "Not too bad, maybe...!",
+				"ru": "Не так уж плохо, может быть...!",
+				"zh": "不太差，也许……！"
 			}
 		},
 		{
 			"strings": {
-				"default": "I think I've got the hang of this song!"
+				"default": "I think I've got the hang of this song!",
+				"ru": "Я думаю, что разобралась в этой песне!",
+				"zh": "我想我已经掌握了这首歌的窍门！"
 			}
 		},
 		{
 			"strings": {
-				"default": "All this practice is paying off...!"
+				"default": "All this practice is paying off...!",
+				"ru": "Вся эта практика приносит свои плоды...!",
+				"zh": "所有这些练习都得到了回报……!"
 			}
 		},
 		{
 			"strings": {
-				"default": "I wish I recorded that..."
+				"default": "I wish I recorded that...",
+				"ru": "Я хочу я это записала...",
+				"zh": "我希望我能把它记录下来……"
 			}
 		}
 	]
