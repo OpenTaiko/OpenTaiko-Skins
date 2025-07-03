@@ -10,10 +10,11 @@ local pos = {
   { x=951, y=288 },
   { x=1142, y=17 },
   { x=1108, y=35 },
-  { x=915, y=189 }
+  { x=915, y=189 },
+  { x=1168, y=21 }
 }
 
-local total_chars = 7
+local total_chars = 8
 
 local center_pos = {540, 540}
 
