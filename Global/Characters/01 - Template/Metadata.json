@@ -12,5 +12,38 @@
 			"default": "OpenTaiko Team",
 			"zh": "OpenTaiko团队"
 		}
-	}
+	},
+	"description": "\nHere since the very beginning...\nThe most reliable red square!\n",
+	"speechtext": [
+		{
+			"strings": {
+				"default": "...?"
+			}
+		},
+		{
+			"strings": {
+				"default": "..."
+			}
+		},
+		{
+			"strings": {
+				"default": "...!"
+			}
+		},
+		{
+			"strings": {
+				"default": "...!!"
+			}
+		},
+		{
+			"strings": {
+				"default": "HOW"
+			}
+		},
+		{
+			"strings": {
+				"default": "HOW!!"
+			}
+		}
+	]
 }

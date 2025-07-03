@@ -1,5 +1,5 @@
 {
     "gauge":"Normal",
-	"bombFactor":12,
-	"fuseRollFactor":0
+	"bombFactor":2,
+	"fuseRollFactor":24
 }

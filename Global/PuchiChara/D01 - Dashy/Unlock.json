@@ -1,11 +1,11 @@
 {
-	"condition": "sg",
+	"condition": "sp",
 	"type": "me",
 	"values": [
-		3,
+		-1,
 		2
 	],
 	"references": [
-		"Dashy's Secrets",
+		"NEO888OwnDashYDasHydesU",
 	],
 }
