@@ -5135,7 +5135,7 @@
             "charaPreviewImage": "Characters\\01 - Template\\Render.png",
             "charaName": "Template",
             "charaCreator": "OpenTaiko Team",
-            "charaVersion": "0.6.0.1",
+            "charaVersion": "0.6.0.2",
             "charaResolution": "1920,1080",
             "charaSize": 14.96,
             "charaFilesPath": [
@@ -5541,7 +5541,7 @@
             "charaPreviewImage": "Characters\\02v2 - Student (A)\\Render.png",
             "charaName": "Student (A)",
             "charaCreator": "Dashy (OPTK) feat. Ryuuko (OPTK)",
-            "charaVersion": "0.6.0.3",
+            "charaVersion": "0.6.0.4",
             "charaResolution": "1920,1080",
             "charaSize": 6.28,
             "charaFilesPath": [
@@ -5644,7 +5644,7 @@
             "charaPreviewImage": "Characters\\03v2 - Student (B)\\Render.png",
             "charaName": "Student (B)",
             "charaCreator": "Dashy (OPTK), Ryuuko (OPTK), Crab (OPTK)",
-            "charaVersion": "0.6.0.0",
+            "charaVersion": "0.6.0.1",
             "charaResolution": "1920,1080",
             "charaSize": 6.24,
             "charaFilesPath": [
@@ -5935,7 +5935,7 @@
             "charaPreviewImage": "Characters\\05v2 - Aoi\\Render.png",
             "charaName": "Aoi",
             "charaCreator": "Dashy (OPTK) ft. Ryuuko (OPTK)",
-            "charaVersion": "0.6.0.3",
+            "charaVersion": "0.6.0.4",
             "charaResolution": "1920,1080",
             "charaSize": 6.8,
             "charaFilesPath": [
@@ -6041,7 +6041,7 @@
             "charaPreviewImage": "Characters\\10v2 - AItritus\\Render.png",
             "charaName": "AItritus",
             "charaCreator": "Dashy (OPTK) ft. Ryuuko (OPTK)",
-            "charaVersion": "0.6.0.3",
+            "charaVersion": "0.6.0.4",
             "charaResolution": "1920,1080",
             "charaSize": 7.6,
             "charaFilesPath": [
@@ -6143,7 +6143,7 @@
             "charaPreviewImage": "Characters\\21 - Mr. Hikaru\\Render.png",
             "charaName": "Mr. Hikaru",
             "charaCreator": "Dashy (OPTK)",
-            "charaVersion": "0.6.0.2",
+            "charaVersion": "0.6.0.3",
             "charaResolution": "1920,1080",
             "charaSize": 8.82,
             "charaFilesPath": [
@@ -6242,7 +6242,7 @@
             "charaPreviewImage": "Characters\\22 - Ras & Berry\\Render.png",
             "charaName": "Ras & Berry",
             "charaCreator": "Dashy (OPTK) feat. Ryuuko (OPTK) & Crab (OPTK)",
-            "charaVersion": "0.6.0.3",
+            "charaVersion": "0.6.0.4",
             "charaResolution": "1920,1080",
             "charaSize": 7.01,
             "charaFilesPath": [
@@ -6352,7 +6352,7 @@
             "charaPreviewImage": "PuchiChara\\01a - OpenTaiko-Kun\\Render.png",
             "charaName": "OpenTaiko-Kun",
             "charaCreator": "DragonRatTiger & Komi",
-            "charaVersion": "0.6.0.1",
+            "charaVersion": "0.6.0.2",
             "charaResolution": "1920,1080",
             "charaSize": 0.16,
             "charaFilesPath": [
