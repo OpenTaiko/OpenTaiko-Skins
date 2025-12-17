@@ -6559,6 +6559,42 @@
                 "PuchiChara\\E01 - Student A (3D)\\Unlock.json",
                 "PuchiChara\\E01 - Student A (3D)\\Welcome.ogg"
             ]
+        },
+        {
+            "charaFolder": "E02 - Scripulous Fingore",
+            "charaFolderPath": "PuchiChara\\E02 - Scripulous Fingore",
+            "charaPreviewImage": "PuchiChara\\E02 - Scripulous Fingore\\Render.png",
+            "charaName": "Scripulous Fingore",
+            "charaCreator": "Takkkom",
+            "charaVersion": "0.6.0.0",
+            "charaResolution": "1920,1080",
+            "charaSize": 0.07,
+            "charaFilesPath": [
+                "PuchiChara\\E02 - Scripulous Fingore\\Chara.png",
+                "PuchiChara\\E02 - Scripulous Fingore\\Effects.json",
+                "PuchiChara\\E02 - Scripulous Fingore\\Metadata.json",
+                "PuchiChara\\E02 - Scripulous Fingore\\PuchiConfig.txt",
+                "PuchiChara\\E02 - Scripulous Fingore\\Unlock.json",
+                "PuchiChara\\E02 - Scripulous Fingore\\Welcome.ogg"
+            ]
+        },
+        {
+            "charaFolder": "E03 - Template Moyai",
+            "charaFolderPath": "PuchiChara\\E03 - Template Moyai",
+            "charaPreviewImage": "PuchiChara\\E03 - Template Moyai\\Render.png",
+            "charaName": "Template (Moyai)",
+            "charaCreator": "OpenTaiko Team",
+            "charaVersion": "0.6.0.0",
+            "charaResolution": "1920,1080",
+            "charaSize": 0.07,
+            "charaFilesPath": [
+                "PuchiChara\\E03 - Template Moyai\\Chara.png",
+                "PuchiChara\\E03 - Template Moyai\\Effects.json",
+                "PuchiChara\\E03 - Template Moyai\\Metadata.json",
+                "PuchiChara\\E03 - Template Moyai\\PuchiConfig.txt",
+                "PuchiChara\\E03 - Template Moyai\\Unlock.json",
+                "PuchiChara\\E03 - Template Moyai\\Welcome.ogg"
+            ]
         }
     ]
 }
