@@ -1,0 +1,19 @@
+{
+	"name" : {
+		"strings": {
+			"default": "Scripulous Fingore"
+		}
+	},
+    "rarity": "Common",
+	"description": {
+		"strings": {
+			"default": "nuh uh",
+			"ja": "これはないね"
+		}
+	},
+	"author": {
+		"strings": {
+			"default": "Takkkom"
+		}
+	}
+}

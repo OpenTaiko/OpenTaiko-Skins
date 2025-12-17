@@ -1,0 +1,17 @@
+{
+	"condition": "sp",
+	"type": "me",
+	"values": [
+		-1,2,
+		-1,2,
+		-1,2,
+		-1,2
+	],
+	"references":
+	[
+		"9zkgZxZzVy108OW0SCPlPsooKRgplzWcuvVXjmBsUIPWZdFtrwYm6kPcXcfMgVEH",
+		"agQmcnW1DEWvmXt6HVR7yyNntpqZEbNV4xUBmOMpxKbpfohxKXBs3msadhWMLvpR",
+		"kh9C",
+		"g5g9LONlUIpjDQWp4sTjx0xjkkkHVZQZtLePUlwsjWVtJmcJ9GjxTfLOFfMJKWXt"
+	]
+}
