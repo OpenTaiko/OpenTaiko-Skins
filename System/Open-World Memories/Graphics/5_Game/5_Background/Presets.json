@@ -3,7 +3,7 @@
         "": {
             "UP": [ "0","1","2","3" ],
             "DOWN": ["0_TaikoClub","1_Field","2_Forest","3_Space","4_Spooky","5_Neighborhood"],
-            "DANCER": [ "0", "1" ],
+            "DANCER": [ "0", "1", "2" ],
             "FOOTER": [ "0" ],
             "MOB": [ "1","2" ],
             "RUNNER": [ "0" ]
@@ -27,7 +27,7 @@
         "Field": {
             "UP": [ "3" ],
             "DOWN": [ "1_Field" ],
-            "DANCER": [ "0", "1" ],
+            "DANCER": [ "0", "1", "2" ],
             "FOOTER": [ "0" ],
             "MOB": [ "1","2" ],
             "RUNNER": [ "0" ]
@@ -35,7 +35,7 @@
         "Forest": {
             "UP": [ "2" ],
             "DOWN": [ "2_Forest" ],
-            "DANCER": [ "0", "1" ],
+            "DANCER": [ "0", "2" ],
             "FOOTER": [ "0" ],
             "MOB": [ "1","2" ],
             "RUNNER": [ "0" ]
@@ -43,7 +43,7 @@
         "Space": {
             "UP": [ "3" ],
             "DOWN": [ "3_Space" ],
-            "DANCER": [ "0", "1" ],
+            "DANCER": [ "0", "1", "2" ],
             "FOOTER": [ "0" ],
             "MOB": [ "1","2" ],
             "RUNNER": [ "0" ]
@@ -51,7 +51,7 @@
         "Spooky": {
             "UP": [ "3" ],
             "DOWN": [ "4_Spooky" ],
-            "DANCER": [ "0", "1" ],
+            "DANCER": [ "0", "1", "2" ],
             "FOOTER": [ "0" ],
             "MOB": [ "1","2" ],
             "RUNNER": [ "0" ]
@@ -61,7 +61,7 @@
             "DOWN": [ "7_WorldBarrier" ],
             "DANCER": [ "0", "1" ],
             "FOOTER": [ "0" ],
-            "MOB": [ "0","1","2" ],
+            "MOB": [ "1","2" ],
             "RUNNER": [ "0" ]
         },
         "Dashy": {
