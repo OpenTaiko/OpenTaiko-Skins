@@ -59,7 +59,7 @@
         "WorldBarrier": {
             "UP": [ "3" ],
             "DOWN": [ "7_WorldBarrier" ],
-            "DANCER": [ "0", "1" ],
+            "DANCER": [ ],
             "FOOTER": [ "0" ],
             "MOB": [ "1","2" ],
             "RUNNER": [ "0" ]
