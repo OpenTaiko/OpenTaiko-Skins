@@ -1,0 +1,46 @@
+{
+  "name": {
+    "strings": {
+      "default": "Bol (OPTK-HQ)"
+    }
+  },
+  "rarity": "Rare",
+  "author": {
+    "strings": {
+      "default": "Dashy (OPTK) feat. Ryuuko (OPTK)"
+    }
+  },
+  "description": "\n A worker at OPTK HQ. He specializes in transcribing \nmusic into sheets we play called 'charts.'\nDon't let his innocent smile deceive you! His charts can be truly soul-crushing!\n",
+  "speechtext": [
+    {
+      "strings": {
+        "default": "... are you kidding me"
+      }
+    },
+    {
+      "strings": {
+        "default": "NOOOOOOOOOOOOOHHHHHGGGHH"
+      }
+    },
+    {
+      "strings": {
+        "default": "I cleared it"
+      }
+    },
+    {
+      "strings": {
+        "default": "Oh (???)"
+      }
+    },
+    {
+      "strings": {
+        "default": "PHEW"
+      }
+    },
+    {
+      "strings": {
+        "default": "(inhale)\nWHOOOOOOOOOOOOOOOOOOOOOOOOOOOOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGGHH \n*vacuum noises*"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+	"name" : {
+		"strings": {
+			"default": "Shadow Dancer"
+		}
+	},
+    "rarity": "Rare",
+	"author": {
+		"strings": {
+			"default": "Dashy (OPTK)"
+		}
+	},
+	"description": "\nA mysterious young man, dressed in dark, glowy clothing, and always hiding his face. \nHe likes shuffle dancing, and is surprisingly kind.\n",
+
+	"speechtext": [
+		{
+			"strings": {
+				"default": "Today's just...\nNot my day, I guess."
+			}
+		},
+		{
+			"strings": {
+				"default": "Ugh... I can't keep \nthe beat at all..."
+			}
+		},
+		{
+			"strings": {
+				"default": "Not too bad."
+			}
+		},
+		{
+			"strings": {
+				"default": "Awesome."
+			}
+		},
+		{
+			"strings": {
+				"default": "Wooh...! I'm exhausted...\n...and not in a bad way!!"
+			}
+		},
+		{
+			"strings": {
+				"default": "Woah... I've never seen \nsuch a wild crowd..."
+			}
+		}
+	]
+}

@@ -1,0 +1,46 @@
+{
+  "name": {
+    "strings": {
+      "default": "Ryuto Setsujin"
+    }
+  },
+  "rarity": "Uncommon",
+  "author": {
+    "strings": {
+      "default": "Dashy (OPTK)"
+    }
+  },
+  "description": "\n An aspiring V-Tuber from another world.\nThey'll do anything to see a smile on your face.\nAlthough they love music and games, they're willing\nto dabble in anything if it means they can have fun.\n",
+  "speechtext": [
+    {
+      "strings": {
+        "default": "I know you can do \nbetter than that..."
+      }
+    },
+    {
+      "strings": {
+        "default": "Not quite. \nYou almost had it..."
+      }
+    },
+    {
+      "strings": {
+        "default": "Good job. I expected \nnothing less from you."
+      }
+    },
+    {
+      "strings": {
+        "default": "Great performance. \nYou've inspired me."
+      }
+    },
+    {
+      "strings": {
+        "default": "Excellent work. \nYour performance amazes me."
+      }
+    },
+    {
+      "strings": {
+        "default": "Even I couldn't achieve \nsuch a score."
+      }
+    }
+  ]
+}

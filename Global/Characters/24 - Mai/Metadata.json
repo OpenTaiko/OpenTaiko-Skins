@@ -1,0 +1,49 @@
+{
+	"name" : {
+		"strings": {
+			"default": "Mai"
+		}
+	},
+    "rarity": "Uncommon",
+	"author": {
+		"strings": {
+			"default": "Dashy (OPTK) feat. Ryuuko (OPTK)",
+			"ru": "Дэши (OPTK) feat. Рюуко (OPTK)",
+			"zh": "Dashy（OPTK）feat. Ryuuko（OPTK）"
+		}
+	},
+	"description": "\n A kind cherry blossom pixie who specializes in graceful ballet inspired dances.\n She usually carries around a Wagasa wherever she goes.\n",
+
+	"speechtext": [
+		{
+			"strings": {
+				"default": "I feel awful..."
+			}
+		},
+		{
+			"strings": {
+				"default": "I kept messing up... "
+			}
+		},
+		{
+			"strings": {
+				"default": "I did my best."
+			}
+		},
+		{
+			"strings": {
+				"default": "What a smooth \nperformance!"
+			}
+		},
+		{
+			"strings": {
+				"default": "...That felt perfect!"
+			}
+		},
+		{
+			"strings": {
+				"default": "A performance so smooth,\n I was sure I was dreaming..."
+			}
+		}
+	]
+}
