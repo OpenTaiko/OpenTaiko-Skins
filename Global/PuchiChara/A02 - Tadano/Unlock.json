@@ -1,0 +1,10 @@
+{
+	"condition": "sp",
+	"type": "me",
+	"values": [
+		-1, 3
+	],
+	"references": [
+		"anOthErreALityH5"
+	]
+}

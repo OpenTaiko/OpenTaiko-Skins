@@ -7113,6 +7113,114 @@
             ]
         },
         {
+            "charaFolder": "A01 - Aoi",
+            "charaFolderPath": "PuchiChara\\A01 - Aoi",
+            "charaPreviewImage": "PuchiChara\\A01 - Aoi\\Render.png",
+            "charaName": "Aoi",
+            "charaCreator": "Dashy",
+            "charaVersion": "0.6.0.2",
+            "charaResolution": "1920,1080",
+            "charaSize": 0.11,
+            "charaFilesPath": [
+                "PuchiChara\\A01 - Aoi\\Chara.png",
+                "PuchiChara\\A01 - Aoi\\Effects.json",
+                "PuchiChara\\A01 - Aoi\\Metadata.json",
+                "PuchiChara\\A01 - Aoi\\PuchiConfig.txt",
+                "PuchiChara\\A01 - Aoi\\Unlock.json",
+                "PuchiChara\\A01 - Aoi\\Welcome.ogg"
+            ]
+        },
+        {
+            "charaFolder": "A02 - Tadano",
+            "charaFolderPath": "PuchiChara\\A02 - Tadano",
+            "charaPreviewImage": "PuchiChara\\A02 - Tadano\\Render.png",
+            "charaName": "Tadano",
+            "charaCreator": "Dashy",
+            "charaVersion": "0.6.0.2",
+            "charaResolution": "1920,1080",
+            "charaSize": 0.1,
+            "charaFilesPath": [
+                "PuchiChara\\A02 - Tadano\\Chara.png",
+                "PuchiChara\\A02 - Tadano\\Effects.json",
+                "PuchiChara\\A02 - Tadano\\Metadata.json",
+                "PuchiChara\\A02 - Tadano\\PuchiConfig.txt",
+                "PuchiChara\\A02 - Tadano\\Unlock.json",
+                "PuchiChara\\A02 - Tadano\\Welcome.ogg"
+            ]
+        },
+        {
+            "charaFolder": "A03 - Kanan",
+            "charaFolderPath": "PuchiChara\\A03 - Kanan",
+            "charaPreviewImage": "PuchiChara\\A03 - Kanan\\Render.png",
+            "charaName": "Kanan",
+            "charaCreator": "Dashy",
+            "charaVersion": "0.6.0.2",
+            "charaResolution": "1920,1080",
+            "charaSize": 0.12,
+            "charaFilesPath": [
+                "PuchiChara\\A03 - Kanan\\Chara.png",
+                "PuchiChara\\A03 - Kanan\\Effects.json",
+                "PuchiChara\\A03 - Kanan\\Metadata.json",
+                "PuchiChara\\A03 - Kanan\\PuchiConfig.txt",
+                "PuchiChara\\A03 - Kanan\\Unlock.json",
+                "PuchiChara\\A03 - Kanan\\Welcome.ogg"
+            ]
+        },
+        {
+            "charaFolder": "A04 - Riku",
+            "charaFolderPath": "PuchiChara\\A04 - Riku",
+            "charaPreviewImage": "PuchiChara\\A04 - Riku\\Render.png",
+            "charaName": "Riku",
+            "charaCreator": "Dashy",
+            "charaVersion": "0.6.0.2",
+            "charaResolution": "1920,1080",
+            "charaSize": 0.15,
+            "charaFilesPath": [
+                "PuchiChara\\A04 - Riku\\Chara.png",
+                "PuchiChara\\A04 - Riku\\Effects.json",
+                "PuchiChara\\A04 - Riku\\Metadata.json",
+                "PuchiChara\\A04 - Riku\\PuchiConfig.txt",
+                "PuchiChara\\A04 - Riku\\Unlock.json",
+                "PuchiChara\\A04 - Riku\\Welcome.ogg"
+            ]
+        },
+        {
+            "charaFolder": "A05 - Ume",
+            "charaFolderPath": "PuchiChara\\A05 - Ume",
+            "charaPreviewImage": "PuchiChara\\A05 - Ume\\Render.png",
+            "charaName": "Ume",
+            "charaCreator": "Dashy",
+            "charaVersion": "0.6.0.2",
+            "charaResolution": "1920,1080",
+            "charaSize": 0.1,
+            "charaFilesPath": [
+                "PuchiChara\\A05 - Ume\\Chara.png",
+                "PuchiChara\\A05 - Ume\\Effects.json",
+                "PuchiChara\\A05 - Ume\\Metadata.json",
+                "PuchiChara\\A05 - Ume\\PuchiConfig.txt",
+                "PuchiChara\\A05 - Ume\\Unlock.json",
+                "PuchiChara\\A05 - Ume\\Welcome.ogg"
+            ]
+        },
+        {
+            "charaFolder": "A06 - Tsubaki",
+            "charaFolderPath": "PuchiChara\\A06 - Tsubaki",
+            "charaPreviewImage": "PuchiChara\\A06 - Tsubaki\\Render.png",
+            "charaName": "Tsubaki",
+            "charaCreator": "Dashy",
+            "charaVersion": "0.6.0.2",
+            "charaResolution": "1920,1080",
+            "charaSize": 0.13,
+            "charaFilesPath": [
+                "PuchiChara\\A06 - Tsubaki\\Chara.png",
+                "PuchiChara\\A06 - Tsubaki\\Effects.json",
+                "PuchiChara\\A06 - Tsubaki\\Metadata.json",
+                "PuchiChara\\A06 - Tsubaki\\PuchiConfig.txt",
+                "PuchiChara\\A06 - Tsubaki\\Unlock.json",
+                "PuchiChara\\A06 - Tsubaki\\Welcome.ogg"
+            ]
+        },
+        {
             "charaFolder": "C01 - Tinyfox",
             "charaFolderPath": "PuchiChara\\C01 - Tinyfox",
             "charaPreviewImage": "PuchiChara\\C01 - Tinyfox\\Render.png",

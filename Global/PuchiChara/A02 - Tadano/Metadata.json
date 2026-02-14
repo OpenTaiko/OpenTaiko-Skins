@@ -1,0 +1,18 @@
+{
+	"name" : {
+		"strings": {
+			"default": "Tadano"
+		}
+	},
+    "rarity": "Uncommon",
+	"description": {
+		"strings": {
+			"default": "The most irregular yet regular person. He's always playing a game."
+		}
+	},
+	"author": {
+		"strings": {
+			"default": "Dashy"
+		}
+	}
+}
