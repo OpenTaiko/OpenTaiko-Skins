@@ -7221,6 +7221,24 @@
             ]
         },
         {
+            "charaFolder": "A08 - Kohaku",
+            "charaFolderPath": "PuchiChara\\A08 - Kohaku",
+            "charaPreviewImage": "PuchiChara\\A08 - Kohaku\\Render.png",
+            "charaName": "Kohaku",
+            "charaCreator": "Dashy",
+            "charaVersion": "0.6.0.2",
+            "charaResolution": "1920,1080",
+            "charaSize": 0.14,
+            "charaFilesPath": [
+                "PuchiChara\\A08 - Kohaku\\Chara.png",
+                "PuchiChara\\A08 - Kohaku\\Effects.json",
+                "PuchiChara\\A08 - Kohaku\\Metadata.json",
+                "PuchiChara\\A08 - Kohaku\\PuchiConfig.txt",
+                "PuchiChara\\A08 - Kohaku\\Unlock.json",
+                "PuchiChara\\A08 - Kohaku\\Welcome.ogg"
+            ]
+        },
+        {
             "charaFolder": "C01 - Tinyfox",
             "charaFolderPath": "PuchiChara\\C01 - Tinyfox",
             "charaPreviewImage": "PuchiChara\\C01 - Tinyfox\\Render.png",

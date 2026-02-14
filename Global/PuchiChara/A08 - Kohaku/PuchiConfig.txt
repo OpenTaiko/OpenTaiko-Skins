@@ -1,0 +1,2 @@
+Chara_Version=0.6.0.2
+Chara_Resolution=1920,1080
