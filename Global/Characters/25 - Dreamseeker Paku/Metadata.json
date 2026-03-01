@@ -1,0 +1,52 @@
+{
+	"name" : {
+		"strings": {
+			"default": "Dreamseeker Paku"
+		}
+	},
+    "rarity": "Rare",
+	"author": {
+		"strings": {
+			"default": "Dashy (OPTK)",
+			"ru": "Дэши (OPTK)",
+			"zh": "Dashy（OPTK）"
+		}
+	},
+	"description": {
+		"strings": {
+			"default": "A strange creature with canine ears, striped paws, and a skinny tail.\nAs a hero on patrol, he eats scrumptious nightmares to remove\nthem from dreams that should have been sweet."
+			}
+		},
+	"speechtext": [
+		{
+			"strings": {
+				"default": "oh"
+			}
+		},
+		{
+			"strings": {
+				"default": "oops"
+			}
+		},
+		{
+			"strings": {
+				"default": "delicious.\ni'll return whenever you need."
+			}
+		},
+		{
+			"strings": {
+				"default": "a job \nwell done."
+			}
+		},
+		{
+			"strings": {
+				"default": "this dream is \nnow crystal clear"
+			}
+		},
+		{
+			"strings": {
+				"default": "a beautiful memory \nbehind closed eyes \n and a smile"
+			}
+		}
+	]
+}
