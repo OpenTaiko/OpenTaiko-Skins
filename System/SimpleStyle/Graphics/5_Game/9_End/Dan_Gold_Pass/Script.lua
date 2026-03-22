@@ -32,7 +32,7 @@ function clearOut(player)
 end
 
 function playEndAnime(player)
-    animeCounter = { 0, 0, 0, 0, 0 }
+    animeCounter[player + 1] = 0
 end
 
 function init()
