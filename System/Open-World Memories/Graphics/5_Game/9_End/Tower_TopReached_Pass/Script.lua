@@ -18,6 +18,7 @@ local nowFrame = { 0, 0, 0, 0, 0 }
 
 function playEndAnime(player)
     animeCounter[player + 1] = 0
+    nowFrame[player + 1] = 0
 end
 
 function init()
