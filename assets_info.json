@@ -5,10 +5,10 @@
             "skinFolderPath": "Open-World Memories",
             "skinPreviewImage": "Open-World Memories\\Graphics\\1_Title\\Background.png",
             "skinName": "Open-World Memories V2: Gleaming Sky",
-            "skinVersion": "0.6.0.27",
+            "skinVersion": "0.6.0.28",
             "skinCreator": "Dashy",
             "skinResolution": "1920,1080",
-            "skinSize": 344.33,
+            "skinSize": 349.4,
             "skinFilesPath": [
                 "Open-World Memories\\AIResultConfig.ini",
                 "Open-World Memories\\ConfigConfig.ini",
@@ -884,6 +884,14 @@
                 "Open-World Memories\\Graphics\\5_Game\\3_Mob\\2\\Mob_Back2.png",
                 "Open-World Memories\\Graphics\\5_Game\\3_Mob\\2\\Mob_Front.png",
                 "Open-World Memories\\Graphics\\5_Game\\3_Mob\\2\\Script.lua",
+                "Open-World Memories\\Graphics\\5_Game\\3_Mob\\A2_af2026\\Mob_Back.png",
+                "Open-World Memories\\Graphics\\5_Game\\3_Mob\\A2_af2026\\Mob_Back2.png",
+                "Open-World Memories\\Graphics\\5_Game\\3_Mob\\A2_af2026\\Mob_Front.png",
+                "Open-World Memories\\Graphics\\5_Game\\3_Mob\\A2_af2026\\Script.lua",
+                "Open-World Memories\\Graphics\\5_Game\\3_Mob\\Empty\\Mob_Back.png",
+                "Open-World Memories\\Graphics\\5_Game\\3_Mob\\Empty\\Mob_Back2.png",
+                "Open-World Memories\\Graphics\\5_Game\\3_Mob\\Empty\\Mob_Front.png",
+                "Open-World Memories\\Graphics\\5_Game\\3_Mob\\Empty\\Script.lua",
                 "Open-World Memories\\Graphics\\5_Game\\4_CourseSymbol\\Dan.png",
                 "Open-World Memories\\Graphics\\5_Game\\4_CourseSymbol\\Easy.png",
                 "Open-World Memories\\Graphics\\5_Game\\4_CourseSymbol\\Edit.png",
@@ -1042,6 +1050,10 @@
                 "Open-World Memories\\Graphics\\5_Game\\5_Background\\Normal\\Down\\8_Dashy\\BG.png",
                 "Open-World Memories\\Graphics\\5_Game\\5_Background\\Normal\\Down\\8_Dashy\\Gears.png",
                 "Open-World Memories\\Graphics\\5_Game\\5_Background\\Normal\\Down\\8_Dashy\\Script.lua",
+                "Open-World Memories\\Graphics\\5_Game\\5_Background\\Normal\\Down\\A2_af2026\\Down.png",
+                "Open-World Memories\\Graphics\\5_Game\\5_Background\\Normal\\Down\\A2_af2026\\Down_Clear.png",
+                "Open-World Memories\\Graphics\\5_Game\\5_Background\\Normal\\Down\\A2_af2026\\Down_Scroll.png",
+                "Open-World Memories\\Graphics\\5_Game\\5_Background\\Normal\\Down\\A2_af2026\\Script.lua",
                 "Open-World Memories\\Graphics\\5_Game\\5_Background\\Normal\\Down\\Outfox\\Down_Blue.png",
                 "Open-World Memories\\Graphics\\5_Game\\5_Background\\Normal\\Down\\Outfox\\Down_Clear.png",
                 "Open-World Memories\\Graphics\\5_Game\\5_Background\\Normal\\Down\\Outfox\\Down_Red.png",
@@ -7466,6 +7478,42 @@
                 "PuchiChara\\E03 - Template Moyai\\PuchiConfig.txt",
                 "PuchiChara\\E03 - Template Moyai\\Unlock.json",
                 "PuchiChara\\E03 - Template Moyai\\Welcome.ogg"
+            ]
+        },
+        {
+            "charaFolder": "E04 - Student (OWYRSILOE)",
+            "charaFolderPath": "PuchiChara\\E04 - Student (OWYRSILOE)",
+            "charaPreviewImage": "PuchiChara\\E04 - Student (OWYRSILOE)\\Render.png",
+            "charaName": "Student (O.W.Y.R.S.I.L.O.E Academy)",
+            "charaCreator": "Dashy (OPTK)",
+            "charaVersion": "0.6.0.1",
+            "charaResolution": "1920,1080",
+            "charaSize": 0.09,
+            "charaFilesPath": [
+                "PuchiChara\\E04 - Student (OWYRSILOE)\\Chara.png",
+                "PuchiChara\\E04 - Student (OWYRSILOE)\\Effects.json",
+                "PuchiChara\\E04 - Student (OWYRSILOE)\\Metadata.json",
+                "PuchiChara\\E04 - Student (OWYRSILOE)\\PuchiConfig.txt",
+                "PuchiChara\\E04 - Student (OWYRSILOE)\\Unlock.json",
+                "PuchiChara\\E04 - Student (OWYRSILOE)\\Welcome.ogg"
+            ]
+        },
+        {
+            "charaFolder": "E05 - Spring (OWYRSILOE)",
+            "charaFolderPath": "PuchiChara\\E05 - Spring (OWYRSILOE)",
+            "charaPreviewImage": "PuchiChara\\E05 - Spring (OWYRSILOE)\\Render.png",
+            "charaName": "Spring (O.W.Y.R.S.I.L.O.E Academy)",
+            "charaCreator": "Dashy (OPTK)",
+            "charaVersion": "0.6.0.1",
+            "charaResolution": "1920,1080",
+            "charaSize": 0.14,
+            "charaFilesPath": [
+                "PuchiChara\\E05 - Spring (OWYRSILOE)\\Chara.png",
+                "PuchiChara\\E05 - Spring (OWYRSILOE)\\Effects.json",
+                "PuchiChara\\E05 - Spring (OWYRSILOE)\\Metadata.json",
+                "PuchiChara\\E05 - Spring (OWYRSILOE)\\PuchiConfig.txt",
+                "PuchiChara\\E05 - Spring (OWYRSILOE)\\Unlock.json",
+                "PuchiChara\\E05 - Spring (OWYRSILOE)\\Welcome.ogg"
             ]
         }
     ]

@@ -1,0 +1,18 @@
+{
+	"name" : {
+		"strings": {
+			"default": "Student (O.W.Y.R.S.I.L.O.E Academy)"
+		}
+	},
+    "rarity": "Poor",
+	"description": {
+		"strings": {
+			"default": "It's you!"
+		}
+	},
+	"author": {
+		"strings": {
+			"default": "Dashy (OPTK)"
+		}
+	}
+}

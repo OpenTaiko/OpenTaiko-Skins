@@ -87,6 +87,22 @@
             "FOOTER": [ "0" ],
             "MOB": [ "0" ],
             "RUNNER": [ "0" ]
+        },
+		"AF2026": {
+            "UP": [ "3" ],
+            "DOWN": [ "A2_af2026" ],
+            "DANCER": [ "0" ],
+            "FOOTER": [ "0" ],
+            "MOB": [ "A2_af2026" ],
+            "RUNNER": [ "0" ]
+        },
+        "AF2026final": {
+            "UP": [ "3" ],
+            "DOWN": [ "A2_af2026" ],
+            "DANCER": [ "0" ],
+            "FOOTER": [ "0" ],
+            "MOB": [ "Empty" ],
+            "RUNNER": [ "0" ]
         }
     },
     "Dan": {

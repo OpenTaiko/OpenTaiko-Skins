@@ -1,0 +1,18 @@
+{
+	"name" : {
+		"strings": {
+			"default": "Spring (O.W.Y.R.S.I.L.O.E Academy)"
+		}
+	},
+    "rarity": "Poor",
+	"description": {
+		"strings": {
+			"default": "The weird, wacky principal of this strange school and town."
+		}
+	},
+	"author": {
+		"strings": {
+			"default": "Dashy (OPTK)"
+		}
+	}
+}
