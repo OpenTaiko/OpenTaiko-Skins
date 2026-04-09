@@ -46,7 +46,7 @@ jobs:
           name: "System Assets"          # The display name of the release
           artifacts: "*.zip"             # Uploads all the zips we just created in the root
           allowUpdates: true             # Updates the release if it already exists
-          replacesArtifacts: true        # Overwrites the old zips with the new ones
+          removeArtifacts: true          # Overwrites the old zips with the new ones
           token: ${{ secrets.GITHUB_TOKEN }}
           
       - name: Cleanup Zips
