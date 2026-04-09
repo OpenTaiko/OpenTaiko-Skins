@@ -48,6 +48,13 @@ jobs:
           allowUpdates: true             # Updates the release if it already exists
           replacesArtifacts: true        # Overwrites the old zips with the new ones
           token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Cleanup Zips
+        shell: pwsh
+        run: |
+          if (Test-Path "*.zip") {
+            Remove-Item *.zip -Force
+          }
 
       - name: Set up Python
         uses: actions/setup-python@v5
