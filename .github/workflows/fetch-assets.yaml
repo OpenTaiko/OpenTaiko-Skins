@@ -10,8 +10,8 @@ jobs:
     runs-on: windows-latest
     
     permissions:
-      # Give the default GITHUB_TOKEN write permission to commit and push the
-      # added or changed files to the repository.
+      # Give the default GITHUB_TOKEN write permission to commit, push,
+      # and manage releases/tags.
       contents: write
 
     steps:
@@ -20,10 +20,37 @@ jobs:
           git config --global core.autocrlf false
         
       - name: Checkout Repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
+
+      - name: Zip System folders
+        shell: pwsh
+        run: |
+          # Check if the System folder exists before trying to loop
+          if (Test-Path "System") {
+            cd System
+            $folders = Get-ChildItem -Directory
+            foreach ($folder in $folders) {
+              $zipName = "$($folder.Name).zip"
+              # Compresses the contents of the folder and places the zip in the root directory
+              Compress-Archive -Path "$($folder.FullName)\*" -DestinationPath "..\$zipName" -Force
+            }
+            cd ..
+          } else {
+            Write-Host "System folder not found. Skipping zip creation."
+          }
+
+      - name: Publish Zips to Release
+        uses: ncipollo/release-action@v1
+        with:
+          tag: "system-assets"           # A static tag ensures we only keep one release alive
+          name: "System Assets"          # The display name of the release
+          artifacts: "*.zip"             # Uploads all the zips we just created in the root
+          allowUpdates: true             # Updates the release if it already exists
+          replacesArtifacts: true        # Overwrites the old zips with the new ones
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v5
         with:
           python-version: '3.8'
 
