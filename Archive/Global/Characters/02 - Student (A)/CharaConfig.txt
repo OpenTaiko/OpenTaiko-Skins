@@ -1,6 +1,6 @@
-Chara_Version=0.6.0.3
+Chara_Version=0.6.0.1
 Chara_Resolution=1920,1080
-Heya_Chara_Render_Offset=1230,100
+Heya_Chara_Render_Offset=830,0
 
 ;キャラのX座標。(1P,2P)
 Game_Chara_X=-20,-20
@@ -21,28 +21,28 @@ Game_Chara_X_AI=680,930
 Game_Chara_Y_AI=270,270
 
 ;キャラの通常時モーション指定。(カンマ区切り)
-Game_Chara_Motion_Normal=0,1,2,3,4,5
+Game_Chara_Motion_Normal=0,1,2,3,4,5,6,7
 
-;キャラの通常時モーション指定。(カンマ区切り)
-Game_Chara_Motion_Clear=0,1,2,3,4,5
+;キャラのクリア時モーション指定。(カンマ区切り)
+Game_Chara_Motion_Clear=0,1,2,3,4,5,6,7
 
 ;キャラのゴーゴータイム時モーション指定。(４分の4拍子換算)
-Game_Chara_Motion_GoGo=0,1,2,3,4,5,6,7,8
+Game_Chara_Motion_GoGo=0,1,2,3,4
 
 ;キャラの通常時モーションが何拍子でループするか。(カンマ区切り)
 Game_Chara_Beat_Normal=2
 
-;キャラの通常時モーションが何拍子でループするか。(カンマ区切り)
+;キャラのクリア時モーションが何拍子でループするか。(カンマ区切り)
 Game_Chara_Beat_Clear=2
 
 ;キャラのゴーゴータイム時モーションが何拍子でループするか。(カンマ区切り)
-Game_Chara_Beat_GoGo=2
+Game_Chara_Beat_GoGo=1
 
 ;ふうせん連打時のキャラ画像X座標。(1P,2P)
-Game_Chara_Balloon_X=-20,-20
+Game_Chara_Balloon_X=0,0
 
 ;ふうせん連打時のキャラ画像X座標。(1P,2P)
-Game_Chara_Balloon_Y=-130,675
+Game_Chara_Balloon_Y=0,297
 
 
 Game_Chara_Balloon_4P=0,-176
@@ -61,14 +61,3 @@ Game_Chara_Kusudama_X=435,1035,135,1335,735
 
 ;ふうせん連打時のキャラ画像Y座標。(X,Y)
 Game_Chara_Kusudama_Y=630,630,630,630,630
-
-Game_Chara_Beat_10Combo=2.5
-Game_Chara_Beat_10ComboMax=2
-Game_Chara_Beat_SoulIn=2
-Game_Chara_Beat_ClearIn=2
-
-;If Tower Clear animation should loop (0 = false, 1 = true)
-Game_Chara_Tower_Clear_IsLooping=1
-
-;If Tower Clear Tired animation should loop (0 = false, 1 = true)
-Game_Chara_Tower_Clear_Tired_IsLooping=1
