@@ -1,0 +1,17 @@
+{
+	"name" : {
+		"strings": {
+			"default": "Aoi",
+			"ru": "Аой",
+			"zh": "小葵"
+		}
+	},
+    "rarity": "Uncommon",
+	"author": {
+		"strings": {
+			"default": "Dashy (OPTK)",
+			"ru": "Дэши (OPTK)",
+			"zh": "Dashy（OPTK）"
+		}
+	}
+}
