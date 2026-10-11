@@ -3,7 +3,11 @@
 		"strings": {
 			"default": "Student (A)",
 			"ru": "Студентка",
-			"zh": "学生（Ａ）"
+			"zh": "学生（Ａ）",
+			"fr": "Élève (A)",
+			"ja": "学生（A）",
+			"es": "Estudiante (A)",
+			"ko": "학생 (A)"
 		}
 	},
     "rarity": "Common",

@@ -3,7 +3,13 @@
 		"strings": {
 			"default": "Ras & Berry",
 			"ru": "Рас и Берри",
-			"zh": "小树＆小莓"
+			"zh": "小树＆小莓",
+			"fr": "Ras et Berry",
+			"ja": "ラズ＆ベリー",
+			"de": "Ras und Berry",
+			"es": "Ras y Berry",
+			"nl": "Ras en Berry",
+			"ko": "라즈 & 베리"
 		}
 	},
     "rarity": "Uncommon",

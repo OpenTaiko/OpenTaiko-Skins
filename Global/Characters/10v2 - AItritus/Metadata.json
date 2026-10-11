@@ -3,7 +3,9 @@
 		"strings": {
 			"default": "AItritus",
 			"ru": "АЙтритус",
-			"zh": "爱特里图斯"
+			"zh": "爱特里图斯",
+			"ja": "アイトリタス",
+			"ko": "아이트리투스"
 		}
 	},
     "rarity": "Rare",

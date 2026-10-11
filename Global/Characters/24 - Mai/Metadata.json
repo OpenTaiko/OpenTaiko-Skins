@@ -1,7 +1,10 @@
 {
 	"name" : {
 		"strings": {
-			"default": "Mai"
+			"default": "Mai",
+			"ja": "マイ",
+			"ru": "Май",
+			"ko": "마이"
 		}
 	},
     "rarity": "Uncommon",

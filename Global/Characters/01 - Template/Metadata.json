@@ -3,7 +3,13 @@
 		"strings": {
 			"default": "Template",
 			"ru": "Шаблон",
-			"zh": "模板"
+			"zh": "模板",
+			"fr": "Modèle",
+			"ja": "テンプレート",
+			"de": "Vorlage",
+			"es": "Plantilla",
+			"nl": "Sjabloon",
+			"ko": "템플릿"
 		}
 	},
     "rarity": "Common",

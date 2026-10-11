@@ -1,7 +1,10 @@
 {
   "name": {
     "strings": {
-      "default": "Bol (OPTK-HQ)"
+      "default": "Bol (OPTK-HQ)",
+      "ja": "ボル (OPTK-HQ)",
+      "ru": "Бол (OPTK-HQ)",
+      "ko": "볼 (OPTK-HQ)"
     }
   },
   "rarity": "Rare",

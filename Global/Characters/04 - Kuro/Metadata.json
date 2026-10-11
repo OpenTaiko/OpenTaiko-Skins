@@ -3,7 +3,9 @@
 		"strings": {
 			"default": "Kuro",
 			"ru": "Куро",
-			"zh": "小黑"
+			"zh": "小黑",
+			"ja": "クロ",
+			"ko": "쿠로"
 		}
 	},
     "rarity": "Rare",

@@ -1,10 +1,12 @@
 [
   {
     "name": "Red",
+    "names": {"fr": "Rouge", "ja": "レッド", "de": "Rot", "es": "Rojo", "nl": "Rood", "ru": "Красный", "ko": "빨강", "zh": "红色"},
     "stops": null
   },
   {
     "name": "Green",
+    "names": {"fr": "Vert", "ja": "グリーン", "de": "Grün", "es": "Verde", "nl": "Groen", "ru": "Зелёный", "ko": "초록", "zh": "绿色"},
     "blend": 1.0,
     "stops": [
       [0, 0, 0, 0],
@@ -14,6 +16,7 @@
   },
   {
     "name": "Blue",
+    "names": {"fr": "Bleu", "ja": "ブルー", "de": "Blau", "es": "Azul", "nl": "Blauw", "ru": "Синий", "ko": "파랑", "zh": "蓝色"},
     "blend": 1.0,
     "stops": [
       [0, 0, 0, 0],
@@ -23,6 +26,7 @@
   },
   {
     "name": "Cyan",
+    "names": {"fr": "Cyan", "ja": "シアン", "de": "Cyan", "es": "Cian", "nl": "Cyaan", "ru": "Голубой", "ko": "청록", "zh": "青色"},
     "blend": 1.0,
     "stops": [
       [0, 0, 0, 0],
@@ -32,6 +36,7 @@
   },
   {
     "name": "Magenta",
+    "names": {"fr": "Magenta", "ja": "マゼンタ", "de": "Magenta", "es": "Magenta", "nl": "Magenta", "ru": "Пурпурный", "ko": "자홍", "zh": "品红"},
     "blend": 1.0,
     "stops": [
       [0, 0, 0, 0],
@@ -41,6 +46,7 @@
   },
   {
     "name": "Yellow",
+    "names": {"fr": "Jaune", "ja": "イエロー", "de": "Gelb", "es": "Amarillo", "nl": "Geel", "ru": "Жёлтый", "ko": "노랑", "zh": "黄色"},
     "blend": 1.0,
     "stops": [
       [0, 0, 0, 0],
@@ -50,6 +56,7 @@
   },
   {
     "name": "Purple",
+    "names": {"fr": "Violet", "ja": "パープル", "de": "Lila", "es": "Morado", "nl": "Paars", "ru": "Фиолетовый", "ko": "보라", "zh": "紫色"},
     "blend": 1.0,
     "stops": [
       [0, 0, 0, 0],
@@ -59,6 +66,7 @@
   },
   {
     "name": "Orange",
+    "names": {"fr": "Orange", "ja": "オレンジ", "de": "Orange", "es": "Naranja", "nl": "Oranje", "ru": "Оранжевый", "ko": "주황", "zh": "橙色"},
     "blend": 1.0,
     "stops": [
       [0, 0, 0, 0],
@@ -68,6 +76,7 @@
   },
   {
     "name": "Pink",
+    "names": {"fr": "Rose", "ja": "ピンク", "de": "Rosa", "es": "Rosa", "nl": "Roze", "ru": "Розовый", "ko": "분홍", "zh": "粉色"},
     "blend": 1.0,
     "stops": [
       [0, 0, 0, 0],
@@ -77,6 +86,7 @@
   },
   {
     "name": "White",
+    "names": {"fr": "Blanc", "ja": "ホワイト", "de": "Weiß", "es": "Blanco", "nl": "Wit", "ru": "Белый", "ko": "하양", "zh": "白色"},
     "blend": 1.0,
     "stops": [
       [0, 0, 0, 0],
@@ -86,6 +96,7 @@
   },
   {
     "name": "Black",
+    "names": {"fr": "Noir", "ja": "ブラック", "de": "Schwarz", "es": "Negro", "nl": "Zwart", "ru": "Чёрный", "ko": "검정", "zh": "黑色"},
     "blend": 1.0,
     "stops": [
       [0, 67, 67, 67],
@@ -95,6 +106,7 @@
   },
   {
     "name": "Bronze",
+    "names": {"fr": "Bronze", "ja": "ブロンズ", "de": "Bronze", "es": "Bronce", "nl": "Brons", "ru": "Бронза", "ko": "브론즈", "zh": "青铜"},
     "blend": 1.0,
     "stops": [
       [0, 0, 0, 0],
@@ -104,6 +116,7 @@
   },
   {
     "name": "Silver",
+    "names": {"fr": "Argent", "ja": "シルバー", "de": "Silber", "es": "Plata", "nl": "Zilver", "ru": "Серебро", "ko": "실버", "zh": "白银"},
     "blend": 1.0,
     "stops": [
       [0, 0, 0, 0],
@@ -113,6 +126,7 @@
   },
   {
     "name": "Golden",
+    "names": {"fr": "Doré", "ja": "ゴールデン", "de": "Golden", "es": "Dorado", "nl": "Gouden", "ru": "Золотой", "ko": "골든", "zh": "黄金"},
     "blend": 1.0,
     "stops": [
       [0, 0, 0, 0],

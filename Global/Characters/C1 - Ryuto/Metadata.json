@@ -1,7 +1,10 @@
 {
   "name": {
     "strings": {
-      "default": "Ryuto Setsujin"
+      "default": "Ryuto Setsujin",
+      "ja": "リュウト・セツジン",
+      "ru": "Рюто Сэцудзин",
+      "ko": "류토 세츠진"
     }
   },
   "rarity": "Uncommon",

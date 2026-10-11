@@ -1,7 +1,15 @@
 {
 	"name" : {
 		"strings": {
-			"default": "Dreamseeker Paku"
+			"default": "Dreamseeker Paku",
+			"fr": "Paku le chercheur de rêves",
+			"ja": "ドリームシーカー・パク",
+			"de": "Traumsucher Paku",
+			"es": "Paku, buscador de sueños",
+			"nl": "Dromenzoeker Paku",
+			"ru": "Искатель снов Паку",
+			"ko": "드림시커 파쿠",
+			"zh": "寻梦者帕库"
 		}
 	},
     "rarity": "Rare",

@@ -3,7 +3,9 @@
 		"strings": {
 			"default": "Aoi",
 			"ru": "Аой",
-			"zh": "小葵"
+			"zh": "小葵",
+			"ja": "アオイ",
+			"ko": "아오이"
 		}
 	},
     "rarity": "Uncommon",

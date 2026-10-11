@@ -3,7 +3,13 @@
 		"strings": {
 			"default": "Mr. Hikaru",
 			"ru": "Мистер Хикару",
-			"zh": "辉先生"
+			"zh": "辉先生",
+			"fr": "M. Hikaru",
+			"ja": "ミスター・ヒカル",
+			"de": "Herr Hikaru",
+			"es": "Sr. Hikaru",
+			"nl": "Meneer Hikaru",
+			"ko": "미스터 히카루"
 		}
 	},
     "rarity": "Rare",

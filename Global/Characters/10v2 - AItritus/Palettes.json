@@ -1,10 +1,12 @@
 [
   {
     "name": "Default",
+    "names": {"fr": "Par défaut", "ja": "デフォルト", "de": "Standard", "es": "Predeterminado", "nl": "Standaard", "ru": "Стандарт", "ko": "기본", "zh": "默认"},
     "stops": null
   },
   {
     "name": "Lead",
+    "names": {"fr": "Plomb", "ja": "鉛", "de": "Blei", "es": "Plomo", "nl": "Lood", "ru": "Свинец", "ko": "납", "zh": "铅灰"},
     "blend": 1.0,
     "stops": [
       [0, 73, 75, 80],
@@ -38,6 +40,7 @@
   },
   {
     "name": "Golden",
+    "names": {"fr": "Doré", "ja": "ゴールデン", "de": "Golden", "es": "Dorado", "nl": "Gouden", "ru": "Золотой", "ko": "골든", "zh": "黄金"},
     "blend": 1.0,
     "stops": [
       [0, 0, 0, 0],

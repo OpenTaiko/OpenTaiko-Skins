@@ -1,10 +1,12 @@
 [
   {
     "name": "Default",
+    "names": {"fr": "Par défaut", "ja": "デフォルト", "de": "Standard", "es": "Predeterminado", "nl": "Standaard", "ru": "Стандарт", "ko": "기본", "zh": "默认"},
     "stops": null
   },
   {
     "name": "Crimson",
+    "names": {"fr": "Cramoisi", "ja": "クリムゾン", "de": "Karmesin", "es": "Carmesí", "nl": "Karmozijn", "ru": "Багровый", "ko": "크림슨", "zh": "绯红"},
     "blend": 0.5,
     "stops": [
       [0, 0, 0, 0],
@@ -17,6 +19,7 @@
   },
   {
     "name": "Forest",
+    "names": {"fr": "Forêt", "ja": "フォレスト", "de": "Wald", "es": "Bosque", "nl": "Woud", "ru": "Лес", "ko": "포레스트", "zh": "森林"},
     "blend": 0.5,
     "stops": [
       [0, 0, 0, 0],
@@ -29,6 +32,7 @@
   },
   {
     "name": "Golden",
+    "names": {"fr": "Doré", "ja": "ゴールデン", "de": "Golden", "es": "Dorado", "nl": "Gouden", "ru": "Золотой", "ko": "골든", "zh": "黄金"},
     "blend": 1.0,
     "stops": [
       [0, 0, 0, 0],

@@ -1,7 +1,15 @@
 {
 	"name" : {
 		"strings": {
-			"default": "Shadow Dancer"
+			"default": "Shadow Dancer",
+			"fr": "Danseur de l'ombre",
+			"ja": "シャドウダンサー",
+			"de": "Schattentänzer",
+			"es": "Bailarín de las sombras",
+			"nl": "Schaduwdanser",
+			"ru": "Теневой танцор",
+			"ko": "섀도 댄서",
+			"zh": "影舞者"
 		}
 	},
     "rarity": "Rare",
