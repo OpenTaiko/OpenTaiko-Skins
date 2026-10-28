@@ -7310,9 +7310,9 @@
             "charaPreviewImage": "PuchiChara\\A05 - Ume\\Render.png",
             "charaName": "Ume",
             "charaCreator": "Dashy",
-            "charaVersion": "0.6.0.2",
+            "charaVersion": "0.6.0.3",
             "charaResolution": "1920,1080",
-            "charaSize": 0.1,
+            "charaSize": 0.09,
             "charaFilesPath": [
                 "PuchiChara\\A05 - Ume\\Chara.png",
                 "PuchiChara\\A05 - Ume\\Effects.json",
