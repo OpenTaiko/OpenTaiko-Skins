@@ -59,7 +59,7 @@
         "WorldBarrier": {
             "UP": [ "3" ],
             "DOWN": [ "7_WorldBarrier" ],
-            "DANCER": [ "Empty" ],
+            "DANCER": [ ],
             "FOOTER": [ "0" ],
             "MOB": [ "1","2" ],
             "RUNNER": [ "0" ]
@@ -91,7 +91,7 @@
 		"AF2026": {
             "UP": [ "3" ],
             "DOWN": [ "A2_af2026" ],
-            "DANCER": [ "Empty" ],
+            "DANCER": [ ],
             "FOOTER": [ "0" ],
             "MOB": [ "A2_af2026" ],
             "RUNNER": [ "0" ]
@@ -99,9 +99,9 @@
         "AF2026final": {
             "UP": [ "3" ],
             "DOWN": [ "A2_af2026" ],
-            "DANCER": [ "Empty" ],
+            "DANCER": [ ],
             "FOOTER": [ "0" ],
-            "MOB": [ "Empty" ],
+            "MOB": [ ],
             "RUNNER": [ "0" ]
         }
     },
@@ -121,7 +121,7 @@
     },
   "Tower": {
     "": {
-      "DOWN": [ "Day", "Sunset", "Mountain" ],
+      "DOWN": [ "Day" ],
       "FOOTER": [ "0" ]
     },
     "Day": {
