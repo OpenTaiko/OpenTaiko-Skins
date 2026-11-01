@@ -1,0 +1,25 @@
+{
+	"hidden_index": 0,
+	"rarity": "Uncommon",
+	"condition": "gc",
+	"type": "me",
+	"values": [
+		5
+	],
+	"references": [
+		"pagoda_plays"
+	],
+	"custom_unlock_text": {
+		"strings": {
+			"default": "Climb the Pagoda of the Unknown 5 times to have Ume join you.",
+			"ja": "未知の塔に5回挑むと、ウメが仲間になる",
+			"fr": "Gravis la Pagode de l'Inconnu 5 fois pour qu'Ume se joigne à toi.",
+			"de": "Erklimme die Pagode des Unbekannten 5-mal, damit Ume sich dir anschließt.",
+			"es": "Asciende 5 veces la Pagoda de lo Desconocido para que Ume se una a ti.",
+			"nl": "Beklim de Pagode van het Onbekende 5 keer, zodat Ume zich bij je aansluit.",
+			"ru": "Поднимитесь в Пагоду Неизвестного 5 раз, и Умэ присоединится к вам.",
+			"ko": "미지의 탑에 5번 오르면 우메가 동료가 됩니다.",
+			"zh": "攀登未知之塔5次，小梅就会加入你。"
+		}
+	}
+}

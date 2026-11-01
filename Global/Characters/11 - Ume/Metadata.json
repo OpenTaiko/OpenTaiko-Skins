@@ -1,0 +1,51 @@
+{
+	"name" : {
+		"strings": {
+			"default": "Ume"
+		}
+	},
+    "rarity": "Uncommon",
+	"author": {
+		"strings": {
+			"default": "Dashy (OPTK) feat. Takkkom (OPTK)"
+		}
+	},
+	"description": {
+		"strings": {
+			"default": ""
+		}
+	},
+
+	"speechtext": [
+		{
+			"strings": {
+				"default": "I ruined it... I...\n (I've got to hide somewhere...)"
+			}
+		},
+		{
+			"strings": {
+				"default": "A-Ah... Sorry...\nI was a little off..."
+			}
+		},
+		{
+			"strings": {
+				"default": "Whew! That was great!"
+			}
+		},
+		{
+			"strings": {
+				"default": "Eheehe! This is fun!"
+			}
+		},
+		{
+			"strings": {
+				"default": "I'm so happy! I didn't \nmess up, even ONCE!"
+			}
+		},
+		{
+			"strings": {
+				"default": "Really!?"
+			}
+		}
+	]
+}
