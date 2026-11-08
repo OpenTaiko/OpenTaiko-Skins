@@ -1,0 +1,49 @@
+{
+	"name" : {
+		"strings": {
+			"default": "Gris"
+		}
+	},
+    "rarity": "Epic",
+	"author": {
+		"strings": {
+			"default": "Dashy (OPTK)",
+			"ru": "Дэши (OPTK)",
+			"zh": "Dashy（OPTK)"
+		}
+	},
+	"description": "\nA distorted and afraid girl currently rehabilitating under Mr. Caspian's care.\n Her physical form is mysterious, as a humanoid with animal-like features.\n Unable to properly see or hear any colors other people do, and to put\n ease on some of her injured limbs, she prefers staying underwater to dim\n down all her fears, and admiring the shining refractions in the water. \n",
+
+	"speechtext": [
+		{
+			"strings": {
+				"default": "It's... so... lonely... \nSo... q-quiet..."
+			}
+		},
+		{
+			"strings": {
+				"default": "I-It hurts... H-Help..."
+			}
+		},
+		{
+			"strings": {
+				"default": "..."
+			}
+		},
+		{
+			"strings": {
+				"default": "(She smiled faintly.)"
+			}
+		},
+		{
+			"strings": {
+				"default": "That's... That's beautiful.."
+			}
+		},
+		{
+			"strings": {
+				"default": "I'm... Enamoured..."
+			}
+		}
+	]
+}

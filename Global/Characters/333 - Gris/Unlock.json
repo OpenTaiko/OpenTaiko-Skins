@@ -1,0 +1,17 @@
+{
+	"hidden_index": 2,
+	"rarity": "Epic",
+	"condition": "gt",
+	"type": "me",
+	"values": [
+		1
+	],
+	"references": [
+		".vault_gris_trust"
+	],
+	"custom_unlock_text": {
+		"strings": {
+			"default": "???"
+		}
+	}
+}
