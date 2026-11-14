@@ -1,0 +1,48 @@
+{
+	"name": {
+		"strings": {
+			"default": "Template 3D",
+			"ru": "Шаблон 3D",
+			"zh": "模板3D"
+		}
+	},
+	"rarity": "Common",
+	"author": {
+		"strings": {
+			"default": "OpenTaiko Team",
+			"zh": "OpenTaiko团队"
+		}
+	},
+	"speechtext": [
+		{
+			"strings": {
+				"default": "...?"
+			}
+		},
+		{
+			"strings": {
+				"default": "..."
+			}
+		},
+		{
+			"strings": {
+				"default": "...!"
+			}
+		},
+		{
+			"strings": {
+				"default": "...!!"
+			}
+		},
+		{
+			"strings": {
+				"default": "HOW"
+			}
+		},
+		{
+			"strings": {
+				"default": "HOW!!"
+			}
+		}
+	]
+}

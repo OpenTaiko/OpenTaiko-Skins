@@ -1,0 +1,23 @@
+Chara_Version=0.7.0.0
+Chara_Resolution=1920,1080
+
+;3D character: animations come from model.glb clips (see Script.lua); the motion/beat keys used
+;by 2D frame characters are not read here. Positions below match the 2D Template.
+
+;キャラのX座標。(1P,2P)
+Game_Chara_X=0,0
+
+;キャラのY座標。(1P,2P)
+Game_Chara_Y=0,805
+
+;3人プレイ以上のキャラの座標。(X, Y)
+Game_Chara_4P=247,102
+
+;5人プレイのキャラの座標。(X, Y)
+Game_Chara_5P=247,60
+
+;キャラのX座標。(1P,2P)
+Game_Chara_X_AI=708,903
+
+;キャラのY座標。(1P,2P)
+Game_Chara_Y_AI=228,228

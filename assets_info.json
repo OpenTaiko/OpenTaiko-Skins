@@ -7444,6 +7444,26 @@
             ]
         },
         {
+            "charaFolder": "01 - Template3D",
+            "charaFolderPath": "Characters\\01 - Template3D",
+            "charaPreviewImage": "Characters\\01 - Template3D\\Render.png",
+            "charaName": "Template 3D",
+            "charaCreator": "OpenTaiko Team",
+            "charaVersion": "0.7.0.0",
+            "charaResolution": "1920,1080",
+            "charaSize": 0.98,
+            "charaFilesPath": [
+                "Characters\\01 - Template3D\\CharaConfig.txt",
+                "Characters\\01 - Template3D\\Effects.json",
+                "Characters\\01 - Template3D\\Metadata.json",
+                "Characters\\01 - Template3D\\model.glb",
+                "Characters\\01 - Template3D\\Palettes.json",
+                "Characters\\01 - Template3D\\Render.png",
+                "Characters\\01 - Template3D\\Script.lua",
+                "Characters\\01 - Template3D\\Unlock.json"
+            ]
+        },
+        {
             "charaFolder": "02v2 - Student (A)",
             "charaFolderPath": "Characters\\02v2 - Student (A)",
             "charaPreviewImage": "Characters\\02v2 - Student (A)\\Render.png",
